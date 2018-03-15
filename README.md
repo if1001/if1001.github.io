@@ -76,11 +76,11 @@ Na disciplina, combinaremos utilizada uma mistura de aulas tradicionais com aula
 | 01 | 28.02.18 (qua) | Apresentação e conceitos fundamentais de desenvolvimento de aplicações móveis | --- |
 | 02 | 05.03.18 (seg) | Conceitos Básicos de Projetos Android - Widgets e UI | --- |
 | 03 | 07.03.18 (qua) | AdapterViews | --- |
-| 04 | 12.03.18 (seg) | RecyclerView, Android Process Model, Activities & Activity Lifecycle | --- |
-| 05 | 14.03.18 (qua) | Intents, Threads, AsyncTasks | --- |
-| 06 | 19.03.18 (seg) | Permissions + Data Management (Assets, Files, SharedPreferences) | --- |
-| 07 | 21.03.18 (qua) | SQLite | --- |
-| 08 | 26.03.18 (seg) | Room | --- |
+| 04 | 12.03.18 (seg) | RecyclerView, Android Process Model, Activities | --- |
+| 05 | 14.03.18 (qua) | Activity Lifecycle, Intents | --- |
+| 06 | 19.03.18 (seg) | Threads, AsyncTasks | --- |
+| 07 | 21.03.18 (qua) | Permissions + Data Management (Assets, Files, SharedPreferences) | --- |
+| 08 | 26.03.18 (seg) | SQLite + Room | --- |
 | 09 | 28.03.18 (qua) | Exercício | --- |
 | 10 | 02.04.18 (seg) | Services | --- |
 | 11 | 04.04.18 (qua) | Broadcast Receivers | --- |
