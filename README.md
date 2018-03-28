@@ -79,35 +79,35 @@ Na disciplina, combinaremos utilizada uma mistura de aulas tradicionais com aula
 | 04 | 12.03.18 (seg) | RecyclerView, Android Process Model, Activities | --- |
 | 05 | 14.03.18 (qua) | Activity Lifecycle, Intents | --- |
 | 06 | 19.03.18 (seg) | Threads, AsyncTasks | --- |
-| 07 | 21.03.18 (qua) | Permissions + Data Management (Assets, Files, SharedPreferences) | --- |
-| 08 | 26.03.18 (seg) | SQLite + Room | --- |
-| 09 | 28.03.18 (qua) | Exercício | --- |
-| 10 | 02.04.18 (seg) | Services | --- |
-| 11 | 04.04.18 (qua) | Broadcast Receivers | --- |
-| 12 | 09.04.18 (seg) | Exercício | --- |
-| 13 | 11.04.18 (qua) | Exercício | --- |
-| 14 | 16.04.18 (seg) | Content Provider Theory & Implementation | --- |
-| 15 | 18.04.18 (qua) | Loader Framework, Contacts, Calendar, MediaStore | --- |
-| 16 | 23.04.18 (seg) | System Services - Notifications, AlarmManager, PowerManager, WakeLocks, JobScheduler | --- |
-| 17 | 25.04.18 (qua) | Location-Based Services, Fused Location | --- |
-| 18 | 30.04.18 (seg) | Audio, Video, Camera & Media Routes | --- |
-| 19 | 02.05.18 (qua) | Sensors, Telephony, SMS | --- |
-| 20 | 07.05.18 (seg) | Android Architecture Components | --- |
-| 21 | 09.05.18 (qua) | Android Architecture Components | --- |
-| 22 | 14.05.18 (seg) | Testing | --- |
-| 23 | 16.05.18 (qua) | Testing | --- |
-| 24 | 21.05.18 (seg) | Bibliotecas úteis e Boas Práticas | --- |
-| 25 | 23.05.18 (qua) | Bibliotecas úteis e Boas Práticas | --- |
-| 26 | 28.05.18 (seg) | Kotlin specifics | --- |
-| 27 | 30.05.18 (qua) | Kotlin specifics | --- |
-| 28 | 04.06.18 (seg) | (apresentação externa - a definir) | --- |
-| 29 | 06.06.18 (qua) | (apresentação externa - a definir) | --- |
-| 30 | 11.06.18 (seg) | Acompanhar projeto | --- |
-| 31 | 13.06.18 (qua) | Acompanhar projeto | --- |
-| 32 | 18.06.18 (seg) | Acompanhar projeto | --- |
-| 33 | 20.06.18 (qua) | Acompanhar projeto | --- |
-| 34 | 25.06.18 (seg) | Acompanhar projeto | --- |
-| 35 | 27.06.18 (qua) | Acompanhar projeto | --- |
-| 36 | 02.07.18 (seg) | Entrega projeto | --- |
+| -- | 21.03.18 (qua) | *APAGÃO* | --- |
+| 07 | 26.03.18 (seg) | Permissions + Data Management (Assets, Files, SharedPreferences) | --- |
+| 08 | 28.03.18 (qua) | [Exercício](https://github.com/if1001/codigo-aulas/tree/master/2018-03-28) | --- |
+| 09 | 02.04.18 (seg) | SQLite & Broadcast Receivers | --- |
+| 10 | 04.04.18 (qua) | Services | --- |
+| 11 | 09.04.18 (seg) | Exercício | --- |
+| 12 | 11.04.18 (qua) | Exercício | --- |
+| 13 | 16.04.18 (seg) | Content Provider Theory & Implementation | --- |
+| 14 | 18.04.18 (qua) | Loader Framework, Contacts, Calendar, MediaStore | --- |
+| 15 | 23.04.18 (seg) | System Services - Notifications, AlarmManager, PowerManager, WakeLocks, JobScheduler | --- |
+| 16 | 25.04.18 (qua) | Location-Based Services, Fused Location | --- |
+| 17 | 30.04.18 (seg) | Audio, Video, Camera & Media Routes | --- |
+| 18 | 02.05.18 (qua) | Sensors, Telephony, SMS | --- |
+| 19 | 07.05.18 (seg) | Android Architecture Components | --- |
+| 20 | 09.05.18 (qua) | Android Architecture Components | --- |
+| 21 | 14.05.18 (seg) | Testing | --- |
+| 22 | 16.05.18 (qua) | Testing | --- |
+| 23 | 21.05.18 (seg) | Bibliotecas úteis e Boas Práticas | --- |
+| 24 | 23.05.18 (qua) | Bibliotecas úteis e Boas Práticas | --- |
+| 25 | 28.05.18 (seg) | Kotlin specifics | --- |
+| 26 | 30.05.18 (qua) | Kotlin specifics | --- |
+| 27 | 04.06.18 (seg) | (apresentação externa - a definir) | --- |
+| 28 | 06.06.18 (qua) | (apresentação externa - a definir) | --- |
+| 29 | 11.06.18 (seg) | Acompanhar projeto | --- |
+| 30 | 13.06.18 (qua) | Acompanhar projeto | --- |
+| 31 | 18.06.18 (seg) | Acompanhar projeto | --- |
+| 32 | 20.06.18 (qua) | Acompanhar projeto | --- |
+| 33 | 25.06.18 (seg) | Acompanhar projeto | --- |
+| 34 | 27.06.18 (qua) | Acompanhar projeto | --- |
+| 35 | 02.07.18 (seg) | Entrega projeto | --- |
 
 
