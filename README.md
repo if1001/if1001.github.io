@@ -81,11 +81,11 @@ Na disciplina, combinaremos utilizada uma mistura de aulas tradicionais com aula
 | 06 | 19.03.18 (seg) | Threads, AsyncTasks | --- |
 | -- | 21.03.18 (qua) | *APAGÃO* | --- |
 | 07 | 26.03.18 (seg) | Permissions + Data Management (Assets, Files, SharedPreferences) | --- |
-| 08 | 28.03.18 (qua) | [Exercício](https://github.com/if1001/codigo-aulas/tree/master/2018-03-28) | --- |
+| 08 | 28.03.18 (qua) | [Exercício 1](https://github.com/if1001/codigo-aulas/tree/master/2018-03-28) | --- |
 | 09 | 02.04.18 (seg) | SQLite & Broadcast Receivers | --- |
 | 10 | 04.04.18 (qua) | Services | --- |
-| 11 | 09.04.18 (seg) | Exercício | --- |
-| 12 | 11.04.18 (qua) | Exercício | --- |
+| 11 | 09.04.18 (seg) | [Exercício 2](https://github.com/if1001/exercicio2-rss) | --- |
+| 12 | 11.04.18 (qua) | [Exercício 2](https://github.com/if1001/exercicio2-rss) | --- |
 | 13 | 16.04.18 (seg) | Content Provider Theory & Implementation | --- |
 | 14 | 18.04.18 (qua) | Loader Framework, Contacts, Calendar, MediaStore | --- |
 | 15 | 23.04.18 (seg) | System Services - Notifications, AlarmManager, PowerManager, WakeLocks, JobScheduler | --- |
