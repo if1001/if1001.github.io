@@ -87,11 +87,11 @@ Na disciplina, combinaremos utilizada uma mistura de aulas tradicionais com aula
 | 11 | 09.04.18 (seg) | [Exercício 2](https://github.com/if1001/exercicio2-rss) | --- |
 | 12 | 11.04.18 (qua) | [Exercício 2](https://github.com/if1001/exercicio2-rss) | --- |
 | 13 | 16.04.18 (seg) | Content Provider Theory & Implementation | [Especificação do Projeto](Projeto-01.md) |
-| 14 | 18.04.18 (qua) | Loader Framework, Contacts, Calendar, MediaStore | --- |
-| 15 | 23.04.18 (seg) | System Services - Notifications, AlarmManager, PowerManager, WakeLocks, JobScheduler | --- |
-| 16 | 25.04.18 (qua) | Location-Based Services, Fused Location | --- |
-| 17 | 30.04.18 (seg) | Audio, Video, Camera & Media Routes | --- |
-| 18 | 02.05.18 (qua) | Sensors, Telephony, SMS | --- |
+| 14 | 18.04.18 (qua) | System Services - Notifications, AlarmManager, JobScheduler | --- |
+| 15 | 23.04.18 (seg) | System Services - PowerManager, Sensors, Telephony, SMS, Location-Based Services, Fused Location | --- |
+| 16 | 25.04.18 (qua) | [Exercício 3](https://github.com/if1001/exercicio3-rss) | --- |
+| 17 | 30.04.18 (seg) | [Exercício 3](https://github.com/if1001/exercicio3-rss) | --- |
+| 18 | 02.05.18 (qua) | Android Architecture Components | --- |
 | 19 | 07.05.18 (seg) | Android Architecture Components | --- |
 | 20 | 09.05.18 (qua) | Android Architecture Components | --- |
 | 21 | 14.05.18 (seg) | Testing | --- |
