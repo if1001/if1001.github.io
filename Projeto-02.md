@@ -10,7 +10,7 @@ manualmente). No entanto, é recomendável usar alguma ferramenta de suporte, pr
 navegação e UI em geral. Várias das ferramentas listadas abaixo são pagas, no entanto oferecem de 7 a 30 dias de _free trial_, 
 suficientes para entregar esta atividade.
 
-O deadline de entrega do mockup é 18/5 às 23h59, por meio do formulário disponível [AQUI](https://docs.google.com/forms/d/e/1FAIpQLSchYuKPTyHolq8_LLDE80dvKsWuSr8diaVoNsN5QOx97SVW3A/viewform). Ao responder o formulário, você deve incluir um link para um repositório GitHub que deve conter toda a documentação (proposta, mockup, código) do projeto. A partir desta atividade, *todas as entregas* serão feitas por meio do repositório informado. 
+O deadline de entrega do mockup é 18/5 às 23h59, por meio do formulário disponível [AQUI](https://docs.google.com/forms/d/e/1FAIpQLSfhOyqGMrXKHUpK98PhA1qu_UXcQwzFZmMtgf6SIVNQntelSw/viewform). Ao responder o formulário, você deve incluir um link para um repositório GitHub que deve conter toda a documentação (proposta, mockup, código) do projeto. A partir desta atividade, *todas as entregas* serão feitas por meio do repositório informado. 
 
 ### Exemplos de ferramentas de Mockup
 - https://proto.io/
