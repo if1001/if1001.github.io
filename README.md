@@ -94,20 +94,20 @@ Na disciplina, combinaremos utilizada uma mistura de aulas tradicionais com aula
 | 18 | 02.05.18 (qua) | Android Architecture Components | --- |
 | 19 | 07.05.18 (seg) | Android Architecture Components | --- |
 | 20 | 09.05.18 (qua) | Android Architecture Components | --- |
-| 21 | 14.05.18 (seg) | Testing | --- |
-| 22 | 16.05.18 (qua) | Testing | --- |
-| 23 | 21.05.18 (seg) | Bibliotecas úteis e Boas Práticas | --- |
-| 24 | 23.05.18 (qua) | Bibliotecas úteis e Boas Práticas | --- |
-| 25 | 28.05.18 (seg) | Kotlin specifics | --- |
-| 26 | 30.05.18 (qua) | Kotlin specifics | --- |
-| 27 | 04.06.18 (seg) | (apresentação externa - a definir) | --- |
-| 28 | 06.06.18 (qua) | (apresentação externa - a definir) | --- |
-| 29 | 11.06.18 (seg) | Acompanhar projeto | --- |
-| 30 | 13.06.18 (qua) | Acompanhar projeto | --- |
-| 31 | 18.06.18 (seg) | Acompanhar projeto | --- |
-| 32 | 20.06.18 (qua) | Acompanhar projeto | --- |
-| 33 | 25.06.18 (seg) | Acompanhar projeto | --- |
-| 34 | 27.06.18 (qua) | Acompanhar projeto | --- |
-| 35 | 02.07.18 (seg) | Entrega projeto | --- |
+| 21 | 14.05.18 (seg) | [*Projeto - Atividade 2*](Projeto-02.md) | --- |
+| 22 | 16.05.18 (qua) | Android Architecture Components | --- |
+| 23 | 21.05.18 (seg) | Testing | --- |
+| 24 | 23.05.18 (qua) | Testing | --- |
+| 25 | 28.05.18 (seg) | Boas Práticas & Acompanhamento de Projeto | --- |
+| 26 | 30.05.18 (qua) | Boas Práticas & Acompanhamento de Projeto | --- |
+| 27 | 04.06.18 (seg) | Acompanhamento de Projeto | --- |
+| 28 | 06.06.18 (qua) | Acompanhamento de Projeto | --- |
+| 29 | 11.06.18 (seg) | Acompanhamento de Projeto | --- |
+| 30 | 13.06.18 (qua) | Acompanhamento de Projeto | --- |
+| 31 | 18.06.18 (seg) | Acompanhamento de Projeto | --- |
+| 32 | 20.06.18 (qua) | Acompanhamento de Projeto | --- |
+| 33 | 25.06.18 (seg) | Acompanhamento de Projeto | --- |
+| 34 | 27.06.18 (qua) | Acompanhamento de Projeto | --- |
+| 35 | 02.07.18 (seg) | Deadline para entrega do projeto | --- |
 
 
