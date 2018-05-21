@@ -96,10 +96,10 @@ Na disciplina, combinaremos utilizada uma mistura de aulas tradicionais com aula
 | 20 | 09.05.18 (qua) | Android Architecture Components | --- |
 | 21 | 14.05.18 (seg) | [*Projeto - Atividade 2*](Projeto-02.md) | --- |
 | 22 | 16.05.18 (qua) | Android Architecture Components | --- |
-| 23 | 21.05.18 (seg) | Testing | --- |
-| 24 | 23.05.18 (qua) | Testing | --- |
-| 25 | 28.05.18 (seg) | Boas Práticas & Acompanhamento de Projeto | --- |
-| 26 | 30.05.18 (qua) | Boas Práticas & Acompanhamento de Projeto | --- |
+| 23 | 21.05.18 (seg) | Acompanhamento de Projeto | --- |
+| 24 | 23.05.18 (qua) | Acompanhamento de Projeto | --- |
+| 25 | 28.05.18 (seg) | Acompanhamento de Projeto | --- |
+| 26 | 30.05.18 (qua) | Acompanhamento de Projeto | --- |
 | 27 | 04.06.18 (seg) | Acompanhamento de Projeto | --- |
 | 28 | 06.06.18 (qua) | Acompanhamento de Projeto | --- |
 | 29 | 11.06.18 (seg) | Acompanhamento de Projeto | --- |
