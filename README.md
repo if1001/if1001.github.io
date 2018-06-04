@@ -98,16 +98,18 @@ Na disciplina, combinaremos utilizada uma mistura de aulas tradicionais com aula
 | 22 | 16.05.18 (qua) | Android Architecture Components | --- |
 | 23 | 21.05.18 (seg) | Acompanhamento de Projeto | --- |
 | 24 | 23.05.18 (qua) | Acompanhamento de Projeto | --- |
-| 25 | 28.05.18 (seg) | Acompanhamento de Projeto | --- |
-| 26 | 30.05.18 (qua) | Acompanhamento de Projeto | --- |
-| 27 | 04.06.18 (seg) | Acompanhamento de Projeto | --- |
-| 28 | 06.06.18 (qua) | Acompanhamento de Projeto | --- |
-| 29 | 11.06.18 (seg) | Acompanhamento de Projeto | --- |
-| 30 | 13.06.18 (qua) | Acompanhamento de Projeto | --- |
-| 31 | 18.06.18 (seg) | Acompanhamento de Projeto | --- |
-| 32 | 20.06.18 (qua) | Acompanhamento de Projeto | --- |
-| 33 | 25.06.18 (seg) | Acompanhamento de Projeto | --- |
-| 34 | 27.06.18 (qua) | Acompanhamento de Projeto | --- |
-| 35 | 02.07.18 (seg) | Deadline para entrega do projeto | --- |
+| -- | 28.05.18 (seg) | *ATIVIDADES SUSPENSAS* | --- |
+| -- | 30.05.18 (qua) | *ATIVIDADES SUSPENSAS* | --- |
+| 25 | 04.06.18 (seg) | Acompanhamento de Projeto | --- |
+| 26 | 06.06.18 (qua) | Acompanhamento de Projeto | --- |
+| 27 | 11.06.18 (seg) | Acompanhamento de Projeto | --- |
+| 28 | 13.06.18 (qua) | Acompanhamento de Projeto | --- |
+| 29 | 18.06.18 (seg) | Acompanhamento de Projeto | --- |
+| 30 | 20.06.18 (qua) | Acompanhamento de Projeto | --- |
+| 31 | 25.06.18 (seg) | Acompanhamento de Projeto | --- |
+| 32 | 27.06.18 (qua) | Acompanhamento de Projeto | --- |
+| 33 | 02.07.18 (seg) | Acompanhamento de Projeto | --- |
+| 34 | 04.07.18 (qua) | Acompanhamento de Projeto | --- |
+| 35 | 09.07.18 (seg) | Deadline para entrega do projeto | --- |
 
 
