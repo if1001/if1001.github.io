@@ -6,14 +6,11 @@
 
 * **Professor** 
   * Leopoldo Motta Teixeira ([@leopoldomt](https://github.com/leopoldomt) --- lmt@cin)
-* **Monitores** 
-  * Antônio Rodrigues ([@acportela](https://github.com/acportela) --- acpr@cin)
-  * Danilo Ribeiro ([@DLRibeiro](https://github.com/DLRibeiro) --- dlr4@cin)
   
 ### Horário e Local de Aulas
 
-* Segunda (18h50-20h30), E113
-* Quarta (17h-18h40), E113
+* Segunda (18h50-20h30), grad 3
+* Quarta (17h-18h40), grad 3
 
 ### Ementa
 
@@ -54,13 +51,14 @@ Na disciplina, combinaremos utilizada uma mistura de aulas tradicionais com aula
 
 ### Avaliação
 
-* Exercícios diversos (50%)
+* Projeto (sozinho ou em dupla)
+  * A nota do projeto compreende não apenas a qualidade do resultado final, mas também acompanhamentos, respeito a prazos e datas de entrega, etc. 
+
+* Exercícios diversos (complementam nota)
   * Criação e avaliação de pequenos apps
   * Uso de ferramentas de análise de apps
   * Criação de Tutoriais de bibliotecas
-* Projeto (50%)
-  * A nota do projeto compreende não apenas a qualidade do resultado final, mas também acompanhamentos, respeito a prazos e datas de entrega, etc. 
-  
+      
 - Observações:
   - Entrega fora do prazo: **redutor de 1 ponto por dia de atraso**. 
   - Atraso máximo: **1 (uma) semana**. Após esse prazo, será dada nota **zero** para a respectiva atividade de avaliação.
@@ -73,43 +71,39 @@ Na disciplina, combinaremos utilizada uma mistura de aulas tradicionais com aula
 
 | # | Data | Assunto | Recursos |
 |:---:|:----:|:----------------------|:--------:|
-| 01 | 28.02.18 (qua) | Apresentação e conceitos fundamentais de desenvolvimento de aplicações móveis | --- |
-| 02 | 05.03.18 (seg) | Conceitos Básicos de Projetos Android - Widgets e UI | --- |
-| 03 | 07.03.18 (qua) | AdapterViews | --- |
-| 04 | 12.03.18 (seg) | RecyclerView, Android Process Model, Activities | --- |
-| 05 | 14.03.18 (qua) | Activity Lifecycle, Intents | --- |
-| 06 | 19.03.18 (seg) | Threads, AsyncTasks | --- |
-| -- | 21.03.18 (qua) | *APAGÃO* | --- |
-| 07 | 26.03.18 (seg) | Permissions + Data Management (Assets, Files, SharedPreferences) | --- |
-| 08 | 28.03.18 (qua) | [Exercício 1](https://github.com/if1001/codigo-aulas/tree/master/2018-03-28) | --- |
-| 09 | 02.04.18 (seg) | SQLite & Broadcast Receivers | --- |
-| 10 | 04.04.18 (qua) | Services | --- |
-| 11 | 09.04.18 (seg) | [Exercício 2](https://github.com/if1001/exercicio2-rss) | --- |
-| 12 | 11.04.18 (qua) | [Exercício 2](https://github.com/if1001/exercicio2-rss) | --- |
-| 13 | 16.04.18 (seg) | Content Provider Theory & Implementation | [Especificação do Projeto](Projeto-01.md) |
-| 14 | 18.04.18 (qua) | System Services - Notifications, AlarmManager, JobScheduler | --- |
-| 15 | 23.04.18 (seg) | System Services - PowerManager, Sensors, Telephony, SMS, Location-Based Services, Fused Location | --- |
-| 16 | 25.04.18 (qua) | [Exercício 3](https://github.com/if1001/exercicio3-rss) | --- |
-| 17 | 30.04.18 (seg) | [Exercício 3](https://github.com/if1001/exercicio3-rss) | --- |
-| 18 | 02.05.18 (qua) | Android Architecture Components | --- |
-| 19 | 07.05.18 (seg) | Android Architecture Components | --- |
-| 20 | 09.05.18 (qua) | Android Architecture Components | --- |
-| 21 | 14.05.18 (seg) | [*Projeto - Atividade 2*](Projeto-02.md) | --- |
-| 22 | 16.05.18 (qua) | Android Architecture Components | --- |
-| 23 | 21.05.18 (seg) | Acompanhamento de Projeto | --- |
-| 24 | 23.05.18 (qua) | Acompanhamento de Projeto | --- |
-| -- | 28.05.18 (seg) | *ATIVIDADES SUSPENSAS* | --- |
-| -- | 30.05.18 (qua) | *ATIVIDADES SUSPENSAS* | --- |
-| 25 | 04.06.18 (seg) | Acompanhamento de Projeto | --- |
-| 26 | 06.06.18 (qua) | Acompanhamento de Projeto | --- |
-| 27 | 11.06.18 (seg) | Acompanhamento de Projeto | --- |
-| 28 | 13.06.18 (qua) | Acompanhamento de Projeto | --- |
-| 29 | 18.06.18 (seg) | Acompanhamento de Projeto | --- |
-| 30 | 20.06.18 (qua) | Acompanhamento de Projeto | --- |
-| 31 | 25.06.18 (seg) | Acompanhamento de Projeto | --- |
-| 32 | 27.06.18 (qua) | Acompanhamento de Projeto | --- |
-| 33 | 02.07.18 (seg) | Acompanhamento de Projeto | --- |
-| 34 | 04.07.18 (qua) | Acompanhamento de Projeto | --- |
-| 35 | 09.07.18 (seg) | Deadline para entrega do projeto | --- |
-
-
+| 01 | 18.02.19 (seg) | Apresentação e conceitos fundamentais de desenvolvimento de aplicações móveis | --- |
+| 02 | 20.02.19 (qua) | Kotlin Basics | --- |
+| 03 | 25.02.19 (seg) | Kotlin Basics | --- |
+| 04 | 27.02.19 (qua) | Kotlin Basics & Conceitos Básicos de Projetos Android | --- |
+| -- | 04.03.19 (qua) | *CARNAVAL* | --- |
+| -- | 06.03.19 (qua) | *CARNAVAL* | --- |
+| 05 | 11.03.19 (seg) | Projetando telas e interagindo com elementos de UI | --- |
+| 06 | 13.03.19 (qua) | AdapterView, RecyclerView, e widgets complexos | --- |
+| 07 | 18.03.19 (seg) | Interação entre telas, ciclo de vida, intents | --- |
+| 08 | 20.03.19 (qua) | Threads, AsyncTasks, Permissions | --- |
+| 09 | 25.03.19 (seg) | Services | --- |
+| 10 | 27.03.19 (qua) | Data Management | --- |
+| 11 | 01.04.19 (seg) | Broadcast Receivers | --- |
+| 12 | 03.04.19 (qua) | System Services | --- |
+| 13 | 08.04.19 (seg) | Content Provider Theory & Implementation | --- |
+| 14 | 10.04.19 (qua) | Android Jetpack | --- |
+| 15 | 15.04.19 (seg) | Android Jetpack | --- |
+| 16 | 17.04.19 (qua) | Processamento e Desempenho | --- |
+| 17 | 22.04.19 (seg) | Memória | --- |
+| 18 | 24.04.19 (qua) | Energia e Consumo de Rede | --- |
+| 19 | 29.04.19 (seg) | Testes | --- |
+| -- | 01.05.19 (qua) | *DIA DO TRABALHO* | --- |
+| 20 | 06.05.19 (seg) | Exercício | --- |
+| 21 | 08.05.19 (qua) | Exercício | --- |
+| 22 | 13.05.19 (seg) | Aula Convidada | --- |
+| 23 | 15.05.19 (qua) | Aula Convidada | --- |
+| 24 | 20.05.19 (seg) | Acompanhamento de Projeto | --- |
+| 25 | 22.05.19 (qua) | Acompanhamento de Projeto | --- |
+| 26 | 27.05.19 (seg) | Acompanhamento de Projeto | --- |
+| 27 | 29.05.19 (qua) | Acompanhamento de Projeto | --- |
+| 28 | 03.06.19 (seg) | Acompanhamento de Projeto | --- |
+| 29 | 05.06.19 (qua) | Acompanhamento de Projeto | --- |
+| 30 | 10.06.19 (seg) | Acompanhamento de Projeto | --- |
+| 31 | 12.06.19 (qua) | Acompanhamento de Projeto | --- |
+| 32 | 17.06.19 (seg) | Acompanhamento de Projeto | --- |
+| 33 | 19.06.19 (qua) | Deadline para entrega do projeto | --- |
