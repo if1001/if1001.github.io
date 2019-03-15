@@ -78,13 +78,13 @@ Na disciplina, combinaremos utilizada uma mistura de aulas tradicionais com aula
 | -- | 04.03.19 (qua) | *CARNAVAL* | --- |
 | -- | 06.03.19 (qua) | *CARNAVAL* | --- |
 | 05 | 11.03.19 (seg) | Projetando telas e interagindo com elementos de UI | --- |
-| 06 | 13.03.19 (qua) | AdapterView, RecyclerView, e widgets complexos | --- |
-| 07 | 18.03.19 (seg) | Interação entre telas, ciclo de vida, intents | --- |
-| 08 | 20.03.19 (qua) | Threads, AsyncTasks, Permissions | --- |
-| 09 | 25.03.19 (seg) | Services | --- |
-| 10 | 27.03.19 (qua) | Data Management | --- |
-| 11 | 01.04.19 (seg) | Broadcast Receivers | --- |
-| 12 | 03.04.19 (qua) | System Services | --- |
+| 06 | 13.03.19 (qua) | AdapterView e widgets complexos | --- |
+| 07 | 18.03.19 (seg) | RecyclerView | --- |
+| 08 | 20.03.19 (qua) | Interação entre telas, ciclo de vida, intents | --- |
+| 09 | 25.03.19 (seg) | Threads, AsyncTasks, Permissions | --- |
+| 10 | 27.03.19 (qua) | Services | --- |
+| 11 | 01.04.19 (seg) | Data Management | --- |
+| 12 | 03.04.19 (qua) | Broadcast Receivers & System Services | --- |
 | 13 | 08.04.19 (seg) | Content Provider Theory & Implementation | --- |
 | 14 | 10.04.19 (qua) | Android Jetpack | --- |
 | 15 | 15.04.19 (seg) | Android Jetpack | --- |
