@@ -80,23 +80,23 @@ Na disciplina, combinaremos utilizada uma mistura de aulas tradicionais com aula
 | 05 | 11.03.19 (seg) | Projetando telas e interagindo com elementos de UI | --- |
 | 06 | 13.03.19 (qua) | AdapterView e widgets complexos | --- |
 | 07 | 18.03.19 (seg) | RecyclerView | --- |
-| 08 | 20.03.19 (qua) | Interação entre telas, ciclo de vida, intents | --- |
-| 09 | 25.03.19 (seg) | Threads, AsyncTasks, Permissions | --- |
-| 10 | 27.03.19 (qua) | Services | --- |
-| 11 | 01.04.19 (seg) | Data Management | --- |
-| 12 | 03.04.19 (qua) | Broadcast Receivers & System Services | --- |
-| 13 | 08.04.19 (seg) | Content Provider Theory & Implementation | --- |
-| 14 | 10.04.19 (qua) | Android Jetpack | --- |
-| 15 | 15.04.19 (seg) | Android Jetpack | --- |
-| 16 | 17.04.19 (qua) | Processamento e Desempenho | --- |
-| 17 | 22.04.19 (seg) | Memória | --- |
-| 18 | 24.04.19 (qua) | Energia e Consumo de Rede | --- |
+| 08 | 20.03.19 (qua) | Activities e Ciclo de Vida | --- |
+| 09 | 25.03.19 (seg) | Interação entre telas | --- |
+| 10 | 27.03.19 (qua) | Intents  | --- |
+| 11 | 01.04.19 (seg) | Threads, AsyncTasks  | --- |
+| 12 | 03.04.19 (qua) | Permissions, Data Management  | --- |
+| 13 | 08.04.19 (seg) | Data Management | --- |
+| 14 | 10.04.19 (qua) | Services | --- |
+| 15 | 15.04.19 (seg) | Broadcast Receivers | --- |
+| 16 | 17.04.19 (qua) | System Services | --- |
+| 17 | 22.04.19 (seg) | System Services | --- |
+| 18 | 24.04.19 (qua) | Content Provider Theory & Implementation | --- |
 | 19 | 29.04.19 (seg) | Testes | --- |
 | -- | 01.05.19 (qua) | *DIA DO TRABALHO* | --- |
 | 20 | 06.05.19 (seg) | Exercício | --- |
 | 21 | 08.05.19 (qua) | Exercício | --- |
-| 22 | 13.05.19 (seg) | Aula Convidada | --- |
-| 23 | 15.05.19 (qua) | Aula Convidada | --- |
+| 22 | 13.05.19 (seg) | Android Jetpack | --- |
+| 23 | 15.05.19 (qua) | Android Jetpack | --- |
 | 24 | 20.05.19 (seg) | Acompanhamento de Projeto | --- |
 | 25 | 22.05.19 (qua) | Acompanhamento de Projeto | --- |
 | 26 | 27.05.19 (seg) | Acompanhamento de Projeto | --- |
