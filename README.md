@@ -86,12 +86,12 @@ Na disciplina, combinaremos utilizada uma mistura de aulas tradicionais com aula
 | 11 | 01.04.19 (seg) | Threads, AsyncTasks  | --- |
 | 12 | 03.04.19 (qua) | Permissions, Data Management  | --- |
 | 13 | 08.04.19 (seg) | Data Management | --- |
-| 14 | 10.04.19 (qua) | Services | --- |
-| 15 | 15.04.19 (seg) | Broadcast Receivers | --- |
-| 16 | 17.04.19 (qua) | System Services | --- |
+| 14 | 10.04.19 (qua) | SQLite & Room | --- |
+| 15 | 15.04.19 (seg) | Services | --- |
+| 16 | 17.04.19 (qua) | Broadcast Receivers | [Especificação do Projeto](Projeto-Especificacao.md) |
 | 17 | 22.04.19 (seg) | System Services | --- |
-| 18 | 24.04.19 (qua) | Content Provider Theory & Implementation | --- |
-| 19 | 29.04.19 (seg) | Testes | --- |
+| 18 | 24.04.19 (qua) | System Services | --- |
+| 19 | 29.04.19 (seg) | Content Provider Theory & Implementation | *ENTREGA - Especificação do Projeto* |
 | -- | 01.05.19 (qua) | *DIA DO TRABALHO* | --- |
 | 20 | 06.05.19 (seg) | Exercício | --- |
 | 21 | 08.05.19 (qua) | Exercício | --- |
