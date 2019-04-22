@@ -12,8 +12,7 @@ Um documento de proposta bem estruturado deve responder às seguintes perguntas:
 2. Quem usará seu aplicativo e por que eles o usarão?
 3. Existe um aplicativo similar? Se sim, como o seu será diferente?
 4. Como sua aplicação será estruturada? Quais telas o usuário irá interagir, e o que elas fazem? Qual é o fluxo de navegação? 
-5. Quais componentes Android serão utilizados, além de classes, bibliotecas de terceiros, paradigmas de design, etc? Sua aplicação deve usar pelo menos 3 componentes básicos de Android.
-6. Se for feito em dupla, como será dividido o trabalho?
+5. Se for feito em dupla, como será dividido o trabalho?
 
 Em geral, seu documento deve fornecer uma visão clara do que é seu aplicativo e de como você vai construi-lo.
 
