@@ -91,14 +91,14 @@ Na disciplina, combinaremos utilizada uma mistura de aulas tradicionais com aula
 | 16 | 17.04.19 (qua) | Broadcast Receivers | [Especificação do Projeto](Projeto-Especificacao.md) |
 | 17 | 22.04.19 (seg) | System Services | --- |
 | 18 | 24.04.19 (qua) | System Services | --- |
-| 19 | 29.04.19 (seg) | Content Provider Theory & Implementation | *ENTREGA - Especificação do Projeto* |
+| 19 | 29.04.19 (seg) | Finalizar Especificação do Projeto | *ENTREGA - Especificação do Projeto* |
 | -- | 01.05.19 (qua) | *DIA DO TRABALHO* | --- |
 | 20 | 06.05.19 (seg) | Exercício | --- |
 | 21 | 08.05.19 (qua) | Exercício | --- |
-| 22 | 13.05.19 (seg) | Android Jetpack | --- |
+| 22 | 13.05.19 (seg) | Content Provider Theory & Implementation | --- |
 | 23 | 15.05.19 (qua) | Android Jetpack | --- |
-| 24 | 20.05.19 (seg) | Acompanhamento de Projeto | --- |
-| 25 | 22.05.19 (qua) | Acompanhamento de Projeto | --- |
+| 24 | 20.05.19 (seg) | Android Jetpack | --- |
+| 25 | 22.05.19 (qua) | Android Jetpack | --- |
 | 26 | 27.05.19 (seg) | Acompanhamento de Projeto | --- |
 | 27 | 29.05.19 (qua) | Acompanhamento de Projeto | --- |
 | 28 | 03.06.19 (seg) | Acompanhamento de Projeto | --- |
