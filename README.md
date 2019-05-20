@@ -96,9 +96,9 @@ Na disciplina, combinaremos utilizada uma mistura de aulas tradicionais com aula
 | 20 | 06.05.19 (seg) | Exercício | --- |
 | 21 | 08.05.19 (qua) | Exercício | --- |
 | 22 | 13.05.19 (seg) | Content Provider Theory & Implementation | --- |
-| 23 | 15.05.19 (qua) | Android Jetpack | --- |
-| 24 | 20.05.19 (seg) | Android Jetpack | --- |
-| 25 | 22.05.19 (qua) | Android Jetpack | --- |
+| 23 | 15.05.19 (qua) | Paralisação | --- |
+| 24 | 20.05.19 (seg) | Acompanhamento de Projeto | --- |
+| 25 | 22.05.19 (qua) | Acompanhamento de Projeto | --- |
 | 26 | 27.05.19 (seg) | Acompanhamento de Projeto | --- |
 | 27 | 29.05.19 (qua) | Acompanhamento de Projeto | --- |
 | 28 | 03.06.19 (seg) | Acompanhamento de Projeto | --- |
