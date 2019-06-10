@@ -106,4 +106,6 @@ Na disciplina, combinaremos utilizada uma mistura de aulas tradicionais com aula
 | 30 | 10.06.19 (seg) | Acompanhamento de Projeto | --- |
 | 31 | 12.06.19 (qua) | Acompanhamento de Projeto | --- |
 | 32 | 17.06.19 (seg) | Acompanhamento de Projeto | --- |
-| 33 | 19.06.19 (qua) | Deadline para entrega do projeto | --- |
+| 33 | 19.06.19 (qua) | Acompanhamento de Projeto | --- |
+| -- | 24.06.19 (seg) | *São João* | --- |
+| 35 | 01.07.19 (seg) | *DEADLINE PARA ENTREGA DE PROJETO* | --- |
