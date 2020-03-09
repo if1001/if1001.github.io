@@ -74,7 +74,7 @@ Na disciplina, combinaremos utilizada uma mistura de aulas tradicionais com aula
 |:---:|:----:|:----------------------|:--------:|
 | -- | 02.03.20 (seg) | *Licença Paternidade* | --- |
 | -- | 04.03.20 (qua) | *Licença Paternidade* | --- |
-| 01 | 09.03.20 (seg) | Apresentação e conceitos fundamentais de desenvolvimento de aplicações móveis | --- |
+| 01 | 09.03.20 (seg) | [Apresentação e conceitos fundamentais de desenvolvimento de aplicações móveis](https://drive.google.com/open?id=1yb0dIzLJOhRqIz-kg-AiZs0R7rqMLhGc) | --- |
 | 02 | 11.03.20 (qua) | Android & Kotlin Basics - Widgets e Interação | --- |
 | 03 | 16.03.20 (seg) | Layout Managers e Widgets UI | --- |
 | 04 | 18.03.20 (qua) | RecyclerView | --- |
