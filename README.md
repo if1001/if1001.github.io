@@ -20,9 +20,10 @@ Este curso apresenta uma introdução ao desenvolvimento de aplicações para di
 
 Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros, sites, e newsletters que podem ser recomendados:
 
-- [The Busy Coder’s Guide to Android Development](https://commonsware.com/Android/)
-- [Android Programming: The Big Nerd Ranch Guide](https://www.bignerdranch.com/books/android-programming/)
-- [Kotlin for Android Developers](https://antonioleiva.com/kotlin-android-developers-book/)
+- [The Busy Coder’s Guide to Android Development - Mark Murphy](https://commonsware.com/Android/)
+- [Android Programming: The Big Nerd Ranch Guide - Bill Phillips, Chris Stewart, Kristin Marsicano](https://www.bignerdranch.com/books/android-programming/)
+- [Kotlin for Android Developers - Antonio Leiva](https://antonioleiva.com/kotlin-android-developers-book/)
+- [Kotlin in Action - Dmitry Jemerov, Svetlana Isakova](https://www.manning.com/books/kotlin-in-action)
 - [Android Weekly](http://androidweekly.net)
 - [Android Reference](http://developer.android.com)
 - [Android Developers Blog](http://android-developers.blogspot.com)
@@ -51,13 +52,13 @@ Na disciplina, combinaremos utilizada uma mistura de aulas tradicionais com aula
 
 ### Avaliação
 
-* Projeto (sozinho ou em dupla)
+* Exercícios diversos (complementam a nota)
+  * Criação de pequenos apps durante a disciplina
+* Seminários em sala de aula (30%)
+  * Apresentação e discussão de temas relacionados a desenvolvimento móvel
+* Projeto (70%)
+  * [Lista de Equipes](#)
   * A nota do projeto compreende não apenas a qualidade do resultado final, mas também acompanhamentos, respeito a prazos e datas de entrega, etc. 
-
-* Exercícios diversos (complementam nota)
-  * Criação e avaliação de pequenos apps
-  * Uso de ferramentas de análise de apps
-  * Criação de Tutoriais de bibliotecas
       
 - Observações:
   - Entrega fora do prazo: **redutor de 1 ponto por dia de atraso**. 
@@ -71,41 +72,40 @@ Na disciplina, combinaremos utilizada uma mistura de aulas tradicionais com aula
 
 | # | Data | Assunto | Recursos |
 |:---:|:----:|:----------------------|:--------:|
-| 01 | 18.02.19 (seg) | Apresentação e conceitos fundamentais de desenvolvimento de aplicações móveis | --- |
-| 02 | 20.02.19 (qua) | Kotlin Basics | --- |
-| 03 | 25.02.19 (seg) | Kotlin Basics | --- |
-| 04 | 27.02.19 (qua) | Kotlin Basics & Conceitos Básicos de Projetos Android | --- |
-| -- | 04.03.19 (qua) | *CARNAVAL* | --- |
-| -- | 06.03.19 (qua) | *CARNAVAL* | --- |
-| 05 | 11.03.19 (seg) | Projetando telas e interagindo com elementos de UI | --- |
-| 06 | 13.03.19 (qua) | AdapterView e widgets complexos | --- |
-| 07 | 18.03.19 (seg) | RecyclerView | --- |
-| 08 | 20.03.19 (qua) | Activities e Ciclo de Vida | --- |
-| 09 | 25.03.19 (seg) | Interação entre telas | --- |
-| 10 | 27.03.19 (qua) | Intents  | --- |
-| 11 | 01.04.19 (seg) | Threads, AsyncTasks  | --- |
-| 12 | 03.04.19 (qua) | Permissions, Data Management  | --- |
-| 13 | 08.04.19 (seg) | Data Management | --- |
-| 14 | 10.04.19 (qua) | SQLite & Room | --- |
-| 15 | 15.04.19 (seg) | Services | --- |
-| 16 | 17.04.19 (qua) | Broadcast Receivers | [Especificação do Projeto](Projeto-Especificacao.md) |
-| 17 | 22.04.19 (seg) | System Services | --- |
-| 18 | 24.04.19 (qua) | System Services | --- |
-| 19 | 29.04.19 (seg) | Finalizar Especificação do Projeto | *ENTREGA - Especificação do Projeto* |
-| -- | 01.05.19 (qua) | *DIA DO TRABALHO* | --- |
-| 20 | 06.05.19 (seg) | Exercício | --- |
-| 21 | 08.05.19 (qua) | Exercício | --- |
-| 22 | 13.05.19 (seg) | Content Provider Theory & Implementation | --- |
-| 23 | 15.05.19 (qua) | Paralisação | --- |
-| 24 | 20.05.19 (seg) | Acompanhamento de Projeto | --- |
-| 25 | 22.05.19 (qua) | Acompanhamento de Projeto | --- |
-| 26 | 27.05.19 (seg) | Acompanhamento de Projeto | --- |
-| 27 | 29.05.19 (qua) | Acompanhamento de Projeto | --- |
-| 28 | 03.06.19 (seg) | Acompanhamento de Projeto | --- |
-| 29 | 05.06.19 (qua) | Acompanhamento de Projeto | --- |
-| 30 | 10.06.19 (seg) | Acompanhamento de Projeto | --- |
-| 31 | 12.06.19 (qua) | Acompanhamento de Projeto | --- |
-| 32 | 17.06.19 (seg) | Acompanhamento de Projeto | --- |
-| 33 | 19.06.19 (qua) | Acompanhamento de Projeto | --- |
-| -- | 24.06.19 (seg) | *São João* | --- |
-| 35 | 01.07.19 (seg) | *DEADLINE PARA ENTREGA DE PROJETO* | --- |
+| -- | 02.03.20 (seg) | *Licença Paternidade* | --- |
+| -- | 04.03.20 (qua) | *Licença Paternidade* | --- |
+| 01 | 09.03.20 (seg) | Apresentação e conceitos fundamentais de desenvolvimento de aplicações móveis | --- |
+| 02 | 11.03.20 (qua) | Android & Kotlin Basics - Widgets e Interação | --- |
+| 03 | 16.03.20 (seg) | Layout Managers e Widgets UI | --- |
+| 04 | 18.03.20 (qua) | RecyclerView | --- |
+| 05 | 23.03.20 (seg) | Configurations, ViewModel, Processos | --- |
+| 06 | 25.03.20 (qua) | DataBinding, App Bar, Intents | --- |
+| 07 | 30.03.20 (seg) | Threads & LiveData | --- |
+| -- | 31.03.20 (ter) | [Deadline para Entrega da Especificação do Projeto](Projeto-Especificacao.md) | --- |
+| 08 | 01.04.20 (qua) | Princípios de UI Design para Apps | --- |
+| 09 | 06.04.20 (seg) | Estilos Arquiteturais & Permissions | --- |
+| 10 | 08.04.20 (qua) | Preferences & Room | --- |
+| 11 | 13.04.20 (seg) | WorkManager  | --- |
+| 12 | 15.04.20 (qua) | Services | --- |
+| 13 | 20.04.20 (seg) | Exercício | --- |
+| 14 | 22.04.20 (qua) | System Services & BroadcastReceivers | --- |
+| 15 | 27.04.20 (seg) | Testes | --- |
+| 16 | 29.04.20 (qua) | Testes | --- |
+| 17 | 04.05.20 (seg) | **Seminários:** Processamento e Desempenho | --- |
+| 18 | 06.05.20 (qua) | **Seminários:** Memória | --- |
+| 19 | 11.05.20 (seg) | **Seminários:** Energia | --- |
+| 20 | 13.05.20 (qua) | **Seminários:** Consumo de Rede | --- |
+| 21 | 18.05.20 (seg) | **Seminários:** Privacidade & Segurança | --- |
+| 22 | 20.05.20 (qua) | **Seminários:** Testes | --- |
+| 23 | 25.05.20 (seg) | **Seminários:** Suporte ferramental, abordagens alternativas de programação | --- |
+| 24 | 27.05.20 (qua) | **Seminários:** Cross-platform development | --- |
+| 25 | 01.06.20 (seg) | Acompanhamento de Projeto | --- |
+| 26 | 03.06.20 (qua) | Acompanhamento de Projeto | --- |
+| 27 | 08.06.20 (seg) | Acompanhamento de Projeto | --- |
+| 28 | 10.06.20 (qua) | Acompanhamento de Projeto | --- |
+| 29 | 15.06.20 (seg) | Acompanhamento de Projeto | --- |
+| 30 | 17.06.20 (qua) | Acompanhamento de Projeto | --- |
+| 31 | 22.06.20 (seg) | Acompanhamento de Projeto | --- |
+| -- | 24.06.20 (qua) | *São João* | --- |
+| 32 | 29.06.20 (seg) | Acompanhamento de Projeto | --- |
+| 33 | 01.07.20 (qua) | *DEADLINE PARA ENTREGA DE PROJETO* | --- |

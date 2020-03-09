@@ -28,6 +28,6 @@ Em particular, para o ponto 4, prepare um Mockup das telas do seu projeto. A for
 - https://www.mockplus.com/
 - https://balsamiq.com/
 
-O deadline de entrega desta atividade é 31/3 às 23h59, por meio do formulário disponível [AQUI](https://docs.google.com/forms/d/e/1FAIpQLSdL56h9CVXN4SaUaO79XKxTTI5-evmubm8mSDuDC7tjcdL0lw/viewform). Ao responder o formulário, você deve incluir um link para um repositório GitHub que deve conter toda a documentação (proposta, mockup, código) do projeto. As demais atividades relativas ao projeto serão entregues por meio do repositório informado. O documento da proposta deve ser um arquivo Markdown no repositório informado, ou um Google Docs que eu tenha permissão de fazer comentários, para poder fazer perguntas e sugerir ajustes. 
+O deadline de entrega desta atividade é 29/4 às 23h59, por meio do formulário disponível [AQUI](https://docs.google.com/forms/u/1/d/e/1FAIpQLSdmB0EW5-engjz94C1jd9jILgylDL_uLtztIosvUdICWPIHlA/viewform). Ao responder o formulário, você deve incluir um link para um repositório GitHub que deve conter toda a documentação (proposta, mockup, código) do projeto. As demais atividades relativas ao projeto serão entregues por meio do repositório informado. O documento da proposta deve ser um arquivo Markdown no repositório informado, ou um Google Docs que eu tenha permissão de fazer comentários, para poder fazer perguntas e sugerir ajustes. 
 
 
