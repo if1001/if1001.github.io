@@ -19,13 +19,27 @@ Este curso apresenta uma introdução ao desenvolvimento de aplicações para di
 
 ### Bibliografia Sugerida
 
-Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros, sites, e newsletters que podem ser recomendados:
+Não há livro texto obrigatório. Entretanto, a seguir estão alguns materiais recomendados:
+
+**Livros**
 
 - [The Busy Coder’s Guide to Android Development - Mark Murphy](https://commonsware.com/Android/)
 - [Android Programming: The Big Nerd Ranch Guide - Bill Phillips, Chris Stewart, Kristin Marsicano](https://www.bignerdranch.com/books/android-programming/)
 - [Kotlin for Android Developers - Antonio Leiva](https://antonioleiva.com/kotlin-android-developers-book/)
 - [Kotlin in Action - Dmitry Jemerov, Svetlana Isakova](https://www.manning.com/books/kotlin-in-action)
+
+**Newsletters**
 - [Android Weekly](http://androidweekly.net)
+
+**Podcasts**
+- [Fragmented](https://fragmentedpodcast.com)
+- [Android Developers Backstage](http://androidbackstage.blogspot.com/)
+- [Android Central](https://www.androidcentral.com/podcast)
+- [The Context](https://github.com/artem-zinnatullin/TheContext-Podcast)
+- [Talking Kotlin](https://talkingkotlin.com/)
+- [Droidkast.LIVE](https://droidkast.live/)
+
+**Sites**
 - [Android Reference](http://developer.android.com)
 - [Android Developers Blog](http://android-developers.blogspot.com)
 
@@ -48,11 +62,28 @@ Na disciplina, combinaremos utilizada uma mistura de aulas tradicionais com aula
 - [Slack](http://if1001.slack.com)
 - [Google Classroom](https://classroom.google.com/c/MTQ4MjYxMDU1NzY4?cjc=imqe5ap)
 
-#### Ferramentas
+### Ferramentas
 
 * [Android Studio](https://developer.android.com/studio/index.html)
 
-# Atenção
+### Plano de Ensino
 
-A nossa primeira aula será no dia 26/08 às 17h, quando apresentaremos o plano de ensino e a avaliação. 
-Enquanto isso, entrem no [Slack](http://if1001.slack.com) e [Google Classroom](https://classroom.google.com/c/MTQ4MjYxMDU1NzY4?cjc=imqe5ap) da disciplina. 
+**Atenção!** 
+*Este plano de ensino está sujeito a alterações durante o semestre, visite frequentemente a página para obter a versão mais atualizada, ou acompanhe os updates no repositório.*
+
+| # | Data | Assunto |
+|:---:|:----:|:----------------------|:--------:|
+| 01 | 26.08.20 (qua) | [Semana 1 - Conceitos básicos, Kotlin, interação simples](semana-01.md) |
+| 02 | 02.09.20 (qua) | Semana 2 - UI, Layout Managers e RecyclerView |
+| 03 | 09.09.20 (qua) | Semana 3 - Activities, Lifecycle & Navigation |
+| 04 | 16.09.20 (qua) | Semana 4 - Services & BroadcastReceivers |
+| 05 | 23.09.20 (qua) | Semana 5 - Data Storage (Preferences & Room) |
+| 06 | 30.09.20 (qua) | Semana 6 - Arquitetura MVx |
+| 07 | 07.10.20 (qua) | Semana 7 - Background processing (`WorkManager`, `LiveData`) |
+| 08 | 14.10.20 (qua) | Semana 8 - System Services (Location, Sensors, Notifications) |
+| 09 | 21.10.20 (qua) | Semana 9 - Testing |
+| 10 | 28.10.20 (qua) | Semana 10 - Best practices & Useful libraries |
+| 11 | 04.11.20 (qua) | Semana 11 - Acompanhamento de Projetos |
+| 12 | 11.11.20 (qua) | Semana 12 - Acompanhamento de Projetos |
+| 13 | 18.11.20 (qua) | Semana 12 - Acompanhamento de Projetos |
+| -- | 24.11.20 (ter) | Entrega do Projeto |
