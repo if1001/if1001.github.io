@@ -85,5 +85,5 @@ Na disciplina, combinaremos utilizada uma mistura de aulas tradicionais com aula
 | 10 | 28.10.20 (qua) | Semana 10 - Best practices & Useful libraries |
 | 11 | 04.11.20 (qua) | Semana 11 - Acompanhamento de Projetos |
 | 12 | 11.11.20 (qua) | Semana 12 - Acompanhamento de Projetos |
-| 13 | 18.11.20 (qua) | Semana 12 - Acompanhamento de Projetos |
+| 13 | 18.11.20 (qua) | Semana 13 - Acompanhamento de Projetos |
 | -- | 24.11.20 (ter) | Entrega do Projeto |
