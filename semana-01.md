@@ -15,7 +15,7 @@ Ao fim da semana, você deve ser capaz de responder às seguintes perguntas:
 
 ### Material usado em sala
 
-- [Hello World Android](#)
+- [Hello World Android](https://github.com/if1001/if1001.github.io/tree/master/2020-08-26/testing)
 
 ### Atividades da Semana
 
@@ -24,7 +24,7 @@ Ao fim da semana, você deve ser capaz de responder às seguintes perguntas:
 - Preparar ideia resumida do projeto (via Classroom)
 
 ### Leitura Obrigatória
-- Ler os tópicos abaixo, disponíveis abaixo de [Noções básicas do app](https://developer.android.com/guide) no guia do desenvolvedor Android
+- Ler os tópicos abaixo, disponíveis na seção [Noções básicas do app](https://developer.android.com/guide) no guia do desenvolvedor Android
   - [Introdução](https://developer.android.com/guide)
   - [Criar seu primeiro app](https://developer.android.com/training/basics/firstapp)
   - [Fundamentos de aplicativos](https://developer.android.com/guide/components/fundamentals)

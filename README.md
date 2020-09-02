@@ -74,7 +74,7 @@ Na disciplina, combinaremos utilizada uma mistura de aulas tradicionais com aula
 | # | Data | Assunto |
 |:---:|:----:|:----------------------|:--------:|
 | 01 | 26.08.20 (qua) | [Semana 1 - Conceitos básicos, Kotlin, interação simples](semana-01.md) |
-| 02 | 02.09.20 (qua) | Semana 2 - UI, Layout Managers e RecyclerView |
+| 02 | 02.09.20 (qua) | [Semana 2 - UI, Layout Managers e RecyclerView](semana-02.md) |
 | 03 | 09.09.20 (qua) | Semana 3 - Activities, Lifecycle & Navigation |
 | 04 | 16.09.20 (qua) | Semana 4 - Services & BroadcastReceivers |
 | 05 | 23.09.20 (qua) | Semana 5 - Data Storage (Preferences & Room) |
