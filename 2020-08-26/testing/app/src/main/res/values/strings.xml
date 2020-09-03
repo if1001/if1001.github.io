@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Testing</string>
+    <string name="mensagem">Outra mensagem.</string>
+    <string name="msgCampoTexto">Digite alguma coisa...</string>
 </resources>
