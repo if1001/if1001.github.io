@@ -13,6 +13,12 @@
 
 * Quarta (17h-18h40), Google Meet
 
+### *Office Hours*
+
+* Segunda (14h-15h), falar comigo no Slack
+* Quarta (16h30-17h), falar comigo no Slack
+* Sexta (11h-12h), falar comigo no Slack
+  
 ### Ementa
 
 Este curso apresenta uma introdução ao desenvolvimento de aplicações para dispositivos móveis, usando a plataforma Android como estudo de caso.
