@@ -9,6 +9,9 @@
 * **Professor** 
   * Leopoldo Motta Teixeira ([@leopoldomt](https://github.com/leopoldomt) --- lmt@cin)
   
+* **Monitor** 
+  * Igor Matos ([@igormatos](https://github.com/igormatos) --- imspc@cin)
+  
 ### Horário e Local de Aulas Síncronas
 
 * Quarta (17h-18h40), Google Meet
