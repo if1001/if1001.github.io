@@ -38,6 +38,7 @@ Ao fim da semana, você deve ser capaz de responder às seguintes perguntas:
   - [Navigation Component](https://developer.android.com/guide/navigation)
   - [`Navigation` Basic Sample](https://github.com/android/architecture-components-samples/tree/master/NavigationBasicSample)
   - [`Navigation` Advanced Sample](https://github.com/android/architecture-components-samples/tree/master/NavigationAdvancedSample)
+  - [Everything You Want to Know About Android Jetpack’s Navigation Component](https://medium.com/better-programming/everything-about-android-jetpacks-navigation-component-b550017c7354)
  
 - **Vídeos**
   - [Activities in the Wild: Exploring the Activity Lifecycle](https://academy.realm.io/posts/activities-in-the-wild-exploring-the-activity-lifecycle-android/)
