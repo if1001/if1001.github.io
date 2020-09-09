@@ -15,7 +15,7 @@ Ao fim da semana, você deve ser capaz de responder às seguintes perguntas:
 ### Material usado em sala
 
 - [ConstraintLayout app](https://github.com/if1001/if1001.github.io/tree/master/2020-09-02/ConstraintLayout/)
-- [RecyclerView app]([#](https://github.com/if1001/if1001.github.io/tree/master/2020-09-02/RecyclerView/))
+- [RecyclerView app](https://github.com/if1001/if1001.github.io/tree/master/2020-09-02/RecyclerView/)
 
 ### Atividades da Semana
 
