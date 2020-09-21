@@ -84,15 +84,17 @@ Na disciplina, combinaremos utilizada uma mistura de aulas tradicionais com aula
 |:---:|:----:|:----------------------|:--------:|
 | 01 | 26.08.20 (qua) | [Semana 1 - Conceitos básicos, Kotlin, interação simples](semana-01.md) |
 | 02 | 02.09.20 (qua) | [Semana 2 - UI, Layout Managers e RecyclerView](semana-02.md) |
-| 03 | 09.09.20 (qua) | [Semana 3 - Activities, Lifecycle & Navigation](semana-03.md) |
-| 04 | 16.09.20 (qua) | Semana 4 - Services & BroadcastReceivers |
-| 05 | 23.09.20 (qua) | Semana 5 - Data Storage (Preferences & Room) |
-| 06 | 30.09.20 (qua) | Semana 6 - Arquitetura MVx |
-| 07 | 07.10.20 (qua) | Semana 7 - Background processing (`WorkManager`, `LiveData`) |
-| 08 | 14.10.20 (qua) | Semana 8 - System Services (Location, Sensors, Notifications) |
-| 09 | 21.10.20 (qua) | Semana 9 - Testing |
-| 10 | 28.10.20 (qua) | Semana 10 - Best practices & Useful libraries |
-| 11 | 04.11.20 (qua) | Semana 11 - Acompanhamento de Projetos |
+| 03 | 09.09.20 (qua) | [Semana 3 - Intents, Activities & Lifecycle](semana-03.md) |
+| 04 | 16.09.20 (qua) | [Semana 4 - Lifecycle & ViewModel](semana-04.md) |
+| 05 | 23.09.20 (qua) | [Semana 5 - Background processing](semana-05.md) |
+| 06 | 30.09.20 (qua) | [Semana 6 - Data Storage (Preferences & Room)](semana-06.md) |
+| 07 | 07.10.20 (qua) | [Semana 7 - Services & BroadcastReceivers](semana-07.md) |
+| 08 | 14.10.20 (qua) | [Semana 8 - Arquitetura MVx](semana-08.md) |
+| 09 | 21.10.20 (qua) | [Semana 9 - System Services (Location, Sensors, Notifications)](semana-09.md) |
+| 10 | 28.10.20 (qua) | [Semana 10 - Testing](semana-10.md) |
+| 11 | 04.11.20 (qua) | [Semana 11 - Best practices & Useful libraries](semana-11.md) |
 | 12 | 11.11.20 (qua) | Semana 12 - Acompanhamento de Projetos |
 | 13 | 18.11.20 (qua) | Semana 13 - Acompanhamento de Projetos |
 | -- | 24.11.20 (ter) | Entrega do Projeto |
+
+

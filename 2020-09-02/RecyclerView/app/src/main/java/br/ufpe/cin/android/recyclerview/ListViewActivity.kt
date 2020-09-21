@@ -18,20 +18,26 @@ class ListViewActivity : Activity() {
         //Map<Integer, String> mapa = new...
         //mapa.put(0,"alguma string);
         val opcoes = hashMapOf(
-                0 to Constants.lista,
-                1 to Constants.listaLonga,
-                2 to Constants.palavrasSimilares
+                0 to Constants.pessoas
+                //0 to Constants.lista,
+                //1 to Constants.listaLonga,
+                //2 to Constants.palavrasSimilares
         )
+
+
+
 
         btn_Troca.setOnClickListener {
             val i = Random().nextInt(opcoes.size)
             val opcao = opcoes[i]
             if (opcao != null) {
-                val adapter = ArrayAdapter<String>(
+
+                //val adapter = ArrayAdapter<String>(
+                val adapter = ArrayAdapter<Pessoa>(
                     //this,
-                    applicationContext,
+                    applicationContext,//getApplicationContext()
                     android.R.layout.simple_list_item_1,
-                    opcao
+                    opcao //Array<String>? (pode ser nullable)
                 )
                 //listaElementos.setAdapter(adapter)
                 listaElementos.adapter = adapter

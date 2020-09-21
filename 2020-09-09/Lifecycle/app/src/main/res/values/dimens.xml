@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <dimen name="content_padding">8dp</dimen>
+  <dimen name="swatch_size">32dp</dimen>
+  <dimen name="label_start_margin">8dp</dimen>
+</resources>

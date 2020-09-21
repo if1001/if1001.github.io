@@ -1,6 +1,6 @@
 # IF1001 - Programação para Dispositivos Móveis - 2020.3
 
-## Semana 3 - Activities, Lifecycle & Navigation
+## Semana 3 - Intents, Activities, e Lifecycle
 
 ### Objetivo
 
@@ -8,14 +8,13 @@ O objetivo desta semana é compreender conceitos importantes relacionados ao com
 
 Ao fim da semana, você deve ser capaz de responder às seguintes perguntas: 
 
-- Qual a motivação por trás da introdução de `ConstraintLayout`?
-- Qual a diferença essencial entre _layout containers_ e _adapter-based containers_?
-- O que significa o termo _recycler_ em `RecyclerView`?
+- O que diferencia intents implícitos de explícitos? 
+- Quais são os estados e métodos do ciclo de vida de Activities?
 
 ### Material usado em sala
 
-- [Lifecycle app]()
-- [Intent Filters app]()
+- [Lifecycle app](https://github.com/if1001/if1001.github.io/tree/master/2020-09-09/Lifecycle)
+- [Intent Filters app](https://github.com/if1001/if1001.github.io/tree/master/2020-09-09/IntentFilters)
 
 ### Atividades da Semana
 
@@ -24,7 +23,6 @@ Ao fim da semana, você deve ser capaz de responder às seguintes perguntas:
   - [Lifecycles and logging](https://codelabs.developers.google.com/codelabs/kotlin-android-training-lifecycles-logging/#0)
   - [Complex lifecycle situations](https://codelabs.developers.google.com/codelabs/kotlin-android-training-complex-lifecycle/index.html?index=..%2F..android-kotlin-fundamentals#2)
   - [Define navigation paths](https://codelabs.developers.google.com/codelabs/kotlin-android-training-add-navigation/index.html?index=..%2F..android-kotlin-fundamentals#0) 
-  - **03.3**, e **04.1** a **04.3**
 - Responder os comentários do professor na ideia básica do projeto.
 
 ### Leitura Obrigatória

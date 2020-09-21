@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".AppLinkActivity"></activity>
+        <activity android:name=".LifecycleListActivity"></activity>
+        <activity android:name=".AppLinkActivity" />
         <activity android:name=".TxtActivity" />
         <activity android:name=".StartActResultActivity" />
         <activity android:name=".LifecycleActivity" />
