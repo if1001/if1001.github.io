@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BackgroundProcessing</string>
+    <string name="contadorToasts">Toasts gerados: %d</string>
+    <string name="comecouOperacao">Começou operação longa!</string>
+    <string name="terminouOperacao">Terminou operação longa!</string>
+</resources>

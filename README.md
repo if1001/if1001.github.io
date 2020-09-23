@@ -90,8 +90,8 @@ Na disciplina, combinaremos utilizada uma mistura de aulas tradicionais com aula
 | 06 | 30.09.20 (qua) | [Semana 6 - Data Storage (Preferences & Room)](semana-06.md) |
 | 07 | 07.10.20 (qua) | [Semana 7 - Services & BroadcastReceivers](semana-07.md) |
 | 08 | 14.10.20 (qua) | [Semana 8 - Arquitetura MVx](semana-08.md) |
-| 09 | 21.10.20 (qua) | [Semana 9 - System Services (Location, Sensors, Notifications)](semana-09.md) |
-| 10 | 28.10.20 (qua) | [Semana 10 - Testing](semana-10.md) |
+| 09 | 21.10.20 (qua) | [Semana 9 - Testing](semana-09.md) |
+| 10 | 28.10.20 (qua) | [Semana 10 - System Services (Location, Sensors, Notifications)](semana-10.md) |
 | 11 | 04.11.20 (qua) | [Semana 11 - Best practices & Useful libraries](semana-11.md) |
 | 12 | 11.11.20 (qua) | Semana 12 - Acompanhamento de Projetos |
 | 13 | 18.11.20 (qua) | Semana 13 - Acompanhamento de Projetos |
