@@ -23,9 +23,4 @@
         android:id="@+id/btnCoroutines"
         android:text="Coroutines" />
 
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/btnLiveData"
-        android:text="LiveData" />
 </LinearLayout>
