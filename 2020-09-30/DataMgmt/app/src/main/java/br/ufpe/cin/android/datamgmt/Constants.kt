@@ -6,7 +6,7 @@ object Constants {
 
     val palavrasSimilares = arrayOf("exemplo", "exemplar", "exemplares", "exemplificou", "exceção", "exclusão", "exceder", "potencialmente", "poder", "potencial", "porque", "podar", "podcast")
 
-    val pessoas = arrayOf(
+    val pessoas = listOf(
         Pessoa("Leopoldo", "lmt"),
         Pessoa("Paulo", "phmb"),
         Pessoa("Castor", "fjclf"),

@@ -9,7 +9,9 @@ import android.widget.Toast
 import androidx.recyclerview.widget.RecyclerView
 import kotlinx.android.synthetic.main.item_cardview.view.*
 
-class PessoaAdapter (private val c : Context, private var pessoas: List<Pessoa>) : RecyclerView.Adapter<PessoaAdapter.ViewHolder>() {
+class PessoaAdapter (private val c : Context): RecyclerView.Adapter<PessoaAdapter.ViewHolder>() {
+
+    private var pessoas = emptyList<Pessoa>()
 
     override fun getItemCount(): Int = pessoas.size
 
