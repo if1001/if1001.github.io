@@ -6,6 +6,7 @@ import androidx.appcompat.app.AppCompatActivity
 import kotlinx.android.synthetic.main.activity_music_player.*
 
 class MusicPlayerActivity : AppCompatActivity() {
+    //Jogue o código que inicia a música e toca pra dentro do MusicPlayerService
     private var mPlayer: MediaPlayer? = null
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -22,7 +23,7 @@ class MusicPlayerActivity : AppCompatActivity() {
             mPlayer?.pause()
         }
     }
-
+/*
     override fun onStop() {
         mPlayer?.pause()
         super.onStop()
@@ -32,4 +33,6 @@ class MusicPlayerActivity : AppCompatActivity() {
         mPlayer?.release()
         super.onDestroy()
     }
+
+ */
 }

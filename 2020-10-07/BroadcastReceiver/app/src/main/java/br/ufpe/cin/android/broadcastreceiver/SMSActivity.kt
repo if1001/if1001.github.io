@@ -32,6 +32,23 @@ class SMSActivity : AppCompatActivity() {
         }
     }
 
+    private val onSMS : BroadcastReceiver = object : BroadcastReceiver() {
+        override fun onReceive(context: Context, intent: Intent) {
+            checkSMS(intent)
+        }
+    }
+
+    override fun onStart() {
+        super.onStart()
+        registerReceiver(onSMS, IntentFilter(Telephony.Sms.Intents.SMS_RECEIVED_ACTION))
+    }
+
+    override fun onStop() {
+        unregisterReceiver(onSMS)
+        super.onStop()
+    }
+
+
     fun podeSMS(): Boolean {
         return ContextCompat.checkSelfPermission(
             this,

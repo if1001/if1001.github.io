@@ -13,17 +13,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".SMSActivity"></activity>
-        <activity android:name=".OutraDynRecActivity" />
-        <activity android:name=".DynRecActivity" />
-
         <receiver
             android:name=".DynamicReceiver"
             android:enabled="true"
-            android:exported="true" />
-
-        <activity android:name=".BroadcastActivity" />
-
+            android:exported="true"></receiver>
         <receiver
             android:name=".BootReceiver"
             android:enabled="true"
@@ -34,6 +27,10 @@
             </intent-filter>
         </receiver>
 
+        <activity android:name=".SMSActivity" />
+        <activity android:name=".OutraDynRecActivity" />
+        <activity android:name=".DynRecActivity" />
+        <activity android:name=".BroadcastActivity" />
         <activity android:name=".BateriaActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>

@@ -23,13 +23,18 @@ class ServiceMainThreadActivity : AppCompatActivity() {
         }
 
         btn_taskMainThread.setOnClickListener {
-
+            try {
+                Thread.sleep(4000)
+            }
+            catch (e:InterruptedException) {
+                e.printStackTrace()
+            }
         }
         btn_StartServiceMainThread.setOnClickListener {
-
+            startService(Intent(this,MainThreadService::class.java))
         }
         btn_StopServiceMainThread.setOnClickListener {
-
+            stopService(Intent(this,MainThreadService::class.java))
         }
     }
 }

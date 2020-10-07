@@ -21,11 +21,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         enviarBroadcastDyn.setOnClickListener {
-            sendBroadcast(
-                Intent(
-                    DynRecActivity.DYN_BROADCAST_ACTION
-                )
-            )
+            sendBroadcast(Intent(DynRecActivity.DYN_BROADCAST_ACTION))
         }
 
         abrirActivity.setOnClickListener {

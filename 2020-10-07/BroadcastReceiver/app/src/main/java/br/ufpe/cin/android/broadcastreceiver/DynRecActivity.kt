@@ -12,11 +12,28 @@ class DynRecActivity : AppCompatActivity() {
         val DYN_BROADCAST_ACTION = "br.ufpe.cin.android.broadcasts.dinamico"
     }
 
+    private val dynamicReceiver = DynamicReceiver()
+
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_dyn_rec)
         enviarBroadcastDyn.setOnClickListener {
+            sendBroadcast(Intent(DYN_BROADCAST_ACTION))
         }
     }
+
+    override fun onResume() {
+        super.onResume()
+        registerReceiver(dynamicReceiver, IntentFilter(DYN_BROADCAST_ACTION))
+    }
+
+    override fun onPause() {
+        //se esquecer de fazer isso aqui, o sistema vai reclamar (observe o logcat)
+        unregisterReceiver(dynamicReceiver)
+        super.onPause()
+    }
+
+
 
 }

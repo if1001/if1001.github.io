@@ -1,6 +1,9 @@
 package br.ufpe.cin.android.broadcastreceiver
 
+import android.content.BroadcastReceiver
+import android.content.Context
 import android.content.Intent
+import android.content.IntentFilter
 import android.os.BatteryManager
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
@@ -8,9 +11,25 @@ import kotlinx.android.synthetic.main.activity_bateria.*
 
 class BateriaActivity : AppCompatActivity() {
 
+    private val onBatteryChanged : BroadcastReceiver = object : BroadcastReceiver() {
+        override fun onReceive(context: Context, intent: Intent) {
+            atualizaStatusBateria(intent)
+        }
+    }
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_bateria)
+    }
+
+    override fun onResume() {
+        super.onResume()
+        registerReceiver(onBatteryChanged,IntentFilter(Intent.ACTION_BATTERY_CHANGED))
+    }
+
+    override fun onPause() {
+        unregisterReceiver(onBatteryChanged)
+        super.onPause()
     }
 
     private fun atualizaStatusBateria(intent: Intent) {
