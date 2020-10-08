@@ -1,16 +1,15 @@
 # IF1001 - Programação para Dispositivos Móveis - 2020.3
 
-## Semana 7 - Services & BroadcastReceivers
+## Semana 7 - Permissions & BroadcastReceivers
 
 ### Objetivo
 
-O objetivo desta semana é compreender conceitos de outros dois componentes básicos em Android ---  `Service` e `BroadcastReceiver`. Adicionalmente, vamos discutir a biblioteca `WorkManager` para agendamento de tarefas.
+O objetivo desta semana é compreender conceitos de Permissões e `BroadcastReceiver`, e introduzir a noção de `Service`.
 
 Ao fim da semana, você deve ser capaz de responder às seguintes perguntas: 
 
-- Quando devo usar `Service` vs. `Thread`/`Coroutine`?
 - Qual o motivo de existirem limites para registro estático de broadcasts?
-- Qual a vantagem de usar uma biblioteca como `WorkManager` para agendamento de tarefas?
+- Qual a diferença introduzida a partir de Android 6.0 em relação a permissões *dangerous*?
 
 ### Material usado em sala
 
@@ -19,34 +18,24 @@ Ao fim da semana, você deve ser capaz de responder às seguintes perguntas:
 
 ### Atividades da Semana
 
-- [Background Work with WorkManager - Kotlin](https://codelabs.developers.google.com/codelabs/android-workmanager/#0)
-- [WorkManager Tutorial for Android: Getting Started](https://www.raywenderlich.com/6040-workmanager-tutorial-for-android-getting-started)
-- [Advanced WorkManager](https://codelabs.developers.google.com/codelabs/android-adv-workmanager/index.html?index=..%2F..index#0)
+- No app [Services](https://github.com/if1001/if1001.github.io/tree/master/2020-10-07/Services), tentar mover o código em `MusicPlayerActivity.java` para dentro de um `Service`.
 
 ### Leitura Obrigatória
 - [Broadcasts overview](https://developer.android.com/guide/components/broadcasts)
-- [Services overview](https://developer.android.com/guide/components/services)
-- [Schedule tasks with WorkManager](https://developer.android.com/topic/libraries/architecture/workmanager)
-- [Data and file storage overview](https://developer.android.com/training/data-storage)
+- [Permissions overview](https://developer.android.com/guide/topics/permissions/overview)
+- [Request App Permissions](https://developer.android.com/training/permissions/requesting)
+- [App permissions best practices](https://developer.android.com/training/permissions/usage-notes)
 
 ### Material complementar
 
-- **`WorkManager`** 
-  - [What WorkManager is and when to use WorkManager](https://medium.com/androiddevelopers/introducing-workmanager-2083bcfc4712)
-  - [How to use the WorkManager API to schedule Work](https://medium.com/androiddevelopers/workmanager-basics-beba51e94048)
-  - [WorkManager and Kotlin](https://medium.com/androiddevelopers/workmanager-meets-kotlin-b9ad02f7405e)
-  - [WorkManager Periodicity](https://medium.com/androiddevelopers/workmanager-periodicity-ff35185ff006)
-  - [Customizing WorkManager — Fundamentals](https://medium.com/androiddevelopers/customizing-workmanager-fundamentals-fdaa17c46dd2)
-  
 - **Vídeos**
-  - [How to Start a Foreground Service in Android (With Notification Channels)](https://www.youtube.com/watch?v=FbpD5RZtbCc)
   - [Android Oreo Background Execution Limits](https://www.youtube.com/watch?v=Pumf_4yjTMc&t=22s)
   - [App Standby vs. Doze: Understanding System Sleep (Android Dev Summit 2015)](https://www.youtube.com/watch?v=p6ZiDZBgPY8)
-  - [Android Jetpack: Introducing WorkManager](https://www.youtube.com/watch?v=pe_yqM16hPQ)
-  - [Android Jetpack: easy background processing with WorkManager (Google I/O '18)](https://www.youtube.com/watch?v=IrKoBFLwTN0)
-  - [Working with WorkManager (Android Dev Summit '18)](https://www.youtube.com/watch?v=83a4rYXsDs0)
-  - [WorkManager: Beyond the Basics (Android Dev Summit '19)](https://www.youtube.com/watch?v=Bz0z694SrEE)
+  - [Permissions on Android (Android Dev Summit '19)](https://www.youtube.com/watch?v=7zSjDfP_xqg)
+  - [Updating Your Apps for Location Permission Changes in Android Q (Google I/O'19)](https://www.youtube.com/watch?v=L7zwfTwrDEs)
+  - [Overview of Privacy Changes in Android Q (Google I/O'19)](https://www.youtube.com/watch?v=bFp2n5OxYEE)
+  
   
 - **Podcasts**
-  - [Android Developers Backstage Episode 93: WorkManager](http://androidbackstage.blogspot.com/2018/06/episode-93-workmanager.html)
-  - [DevDrops Podcast - episódio 2 - O Renascimento Android - WorkManager](https://devdropspodcast.blogspot.com/2020/05/devdrops-podcast-episodio-2-o.html)
+  - [Android Developers Backstage Episode 33: Permission Mission](http://androidbackstage.blogspot.com/2015/08/episode-33-permission-mission.html)
+  - [Androidiots Podcast 2: Changes in Android P](https://medium.com/androidiots/androidiots-podcast-2-changes-in-android-p-6478fb9726c4)
