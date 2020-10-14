@@ -14,7 +14,7 @@ Ao fim da semana, você deve ser capaz de responder às seguintes perguntas:
 ### Material usado em sala
 
 - [Services app](https://github.com/if1001/if1001.github.io/tree/master/2020-10-14/Services)
-- [WorkManager app](https://github.com/if1001/if1001.github.io/tree/master/2020-10-14/BroadcastReceiver)
+- [WorkManager app](https://github.com/googlecodelabs/android-workmanager)
 
 ### Atividades da Semana
 
