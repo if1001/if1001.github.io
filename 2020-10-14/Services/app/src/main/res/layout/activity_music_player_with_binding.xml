@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <Button
+        android:id="@+id/botaoPlay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:text="Play"
+        android:textSize="24sp" >
+    </Button>
+    <Button
+        android:id="@+id/botaoPause"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/botaoPlay"
+        android:text="Pause"
+        android:textSize="24sp" >
+    </Button>
+
+    <Button
+        android:id="@+id/botaoStartService"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/botaoPause"
+        android:text="Start Service"
+        android:textSize="24sp"></Button>
+
+    <Button
+        android:id="@+id/botaoStopService"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/botaoStartService"
+        android:text="Stop Service"
+        android:textSize="24sp"></Button>
+
+    <Button
+        android:id="@+id/botaoBindService"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/botaoStopService"
+        android:text="Bind Service"
+        android:textSize="24sp"></Button>
+
+    <Button
+        android:id="@+id/botaoUnbindService"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/botaoBindService"
+        android:text="Unbind Service"
+        android:textSize="24sp"></Button>
+
+
+</RelativeLayout>

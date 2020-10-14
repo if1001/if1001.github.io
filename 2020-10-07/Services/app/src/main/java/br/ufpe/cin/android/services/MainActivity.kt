@@ -17,6 +17,7 @@ class MainActivity : AppCompatActivity() {
         botao_musicServiceWithoutBinding.setOnClickListener { src: View? -> startActivity(Intent(applicationContext, MusicPlayerNoBindingActivity::class.java)) }
 
         botao_musicServiceWithBinding.setOnClickListener { src: View? -> startActivity(Intent(applicationContext, MusicPlayerWithBindingActivity::class.java)) }
+        botao_anotherBinding.setOnClickListener { src: View? -> startActivity(Intent(applicationContext, AnotherBindingActivity::class.java)) }
 
         botao_serviceMainThread.setOnClickListener { src: View? -> startActivity(Intent(applicationContext, ServiceMainThreadActivity::class.java)) }
 

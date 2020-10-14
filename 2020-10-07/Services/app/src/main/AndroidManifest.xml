@@ -9,10 +9,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <activity android:name=".AnotherBindingActivity"></activity>
+
         <service
             android:name=".MusicPlayerService"
             android:enabled="true"
-            android:exported="true"></service>
+            android:exported="true" />
         <service
             android:name=".MainThreadService"
             android:enabled="true"
@@ -20,26 +22,10 @@
 
         <activity android:name=".ServiceMainThreadActivity" />
 
-        <service
-            android:name=".MusicPlayerWithBindingService"
-            android:enabled="true"
-            android:exported="true" />
-
         <activity android:name=".MusicPlayerWithBindingActivity" />
-
-        <service
-            android:name=".MusicPlayerNoBindingService"
-            android:enabled="true"
-            android:exported="true" />
 
         <activity android:name=".MusicPlayerNoBindingActivity" />
         <activity android:name=".MusicPlayerActivity" />
-
-        <service
-            android:name=".DownloadService"
-            android:enabled="true"
-            android:exported="true"
-            android:permission="android.permission.BIND_JOB_SERVICE" />
 
         <activity android:name=".DownloadViewActivity" />
         <activity android:name=".DownloadActivity" />

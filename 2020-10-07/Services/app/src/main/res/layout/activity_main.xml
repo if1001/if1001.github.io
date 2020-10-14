@@ -33,6 +33,13 @@
         android:textSize="20sp" />
 
     <Button
+        android:id="@+id/botao_anotherBinding"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Outra Binding Activity"
+        android:textSize="20sp" />
+
+    <Button
         android:id="@+id/botao_downloadService"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"

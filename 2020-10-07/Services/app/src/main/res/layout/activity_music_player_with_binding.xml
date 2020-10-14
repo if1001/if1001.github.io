@@ -21,11 +21,35 @@
     </Button>
 
     <Button
-        android:id="@+id/botaoStopService"
+        android:id="@+id/botaoStartService"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@id/botaoPause"
+        android:text="Start Service"
+        android:textSize="24sp"></Button>
+
+    <Button
+        android:id="@+id/botaoStopService"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/botaoStartService"
         android:text="Stop Service"
+        android:textSize="24sp"></Button>
+
+    <Button
+        android:id="@+id/botaoBindService"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/botaoStopService"
+        android:text="Bind Service"
+        android:textSize="24sp"></Button>
+
+    <Button
+        android:id="@+id/botaoUnbindService"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/botaoBindService"
+        android:text="Unbind Service"
         android:textSize="24sp"></Button>
 
 
