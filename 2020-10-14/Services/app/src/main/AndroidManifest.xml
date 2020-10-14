@@ -2,6 +2,11 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="br.ufpe.cin.android.services">
 
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -9,7 +14,16 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".AnotherBindingActivity"></activity>
+        <service
+            android:name=".DownloadService"
+            android:permission="android.permission.BIND_JOB_SERVICE"
+            android:exported="false"></service>
+        <service
+            android:name=".MusicPlayerBindingService"
+            android:enabled="true"
+            android:exported="true" />
+
+        <activity android:name=".AnotherBindingActivity" />
 
         <service
             android:name=".MusicPlayerService"
@@ -21,12 +35,9 @@
             android:exported="true" />
 
         <activity android:name=".ServiceMainThreadActivity" />
-
         <activity android:name=".MusicPlayerWithBindingActivity" />
-
         <activity android:name=".MusicPlayerNoBindingActivity" />
         <activity android:name=".MusicPlayerActivity" />
-
         <activity android:name=".DownloadViewActivity" />
         <activity android:name=".DownloadActivity" />
         <activity android:name=".MainActivity">

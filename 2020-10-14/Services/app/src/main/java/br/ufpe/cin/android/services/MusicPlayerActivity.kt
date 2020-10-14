@@ -23,7 +23,7 @@ class MusicPlayerActivity : AppCompatActivity() {
             mPlayer?.pause()
         }
     }
-/*
+
     override fun onStop() {
         mPlayer?.pause()
         super.onStop()
@@ -33,6 +33,4 @@ class MusicPlayerActivity : AppCompatActivity() {
         mPlayer?.release()
         super.onDestroy()
     }
-
- */
 }
