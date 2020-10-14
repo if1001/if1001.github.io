@@ -1,6 +1,6 @@
 # IF1001 - Programação para Dispositivos Móveis - 2020.3
 
-## Semana 7 - Services & `WorkManager`
+## Semana 8 - Services & `WorkManager`
 
 ### Objetivo
 
