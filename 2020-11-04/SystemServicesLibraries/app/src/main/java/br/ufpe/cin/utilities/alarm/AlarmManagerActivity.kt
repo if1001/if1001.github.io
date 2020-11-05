@@ -31,7 +31,7 @@ class AlarmManagerActivity : Activity() {
 
         // Pegando o servico
         mAlarmManager = getSystemService(Context.ALARM_SERVICE) as AlarmManager
-        //mAlarmManager = getSystemService(AlarmManager.class);
+        //mAlarmManager = getSystemService(AlarmManager::class.java)
 
         // Criando Intent para enviar broadcast para o NotificationReceiver
         mNotificationReceiverIntent = Intent(this, AlarmNotificationReceiver::class.java)

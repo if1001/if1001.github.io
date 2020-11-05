@@ -31,14 +31,14 @@ class NotificationManagerActivity : Activity() {
     private var mContentIntent: PendingIntent? = null
 
     // Som e padrao de vibracao da Notification
-    private val soundURI = Uri.parse("android.resource://br.ufpe.cin.android.systemservices/" + R.raw.alarm_rooster)
+    private val soundURI = Uri.parse("android.resource://br.ufpe.cin.utilities/" + R.raw.alarm_rooster)
     private val mVibratePattern = longArrayOf(0, 200, 200, 300)
 
     internal var mNotifyManager: NotificationManager? = null
     internal var mBuilder: NotificationCompat.Builder? = null
 
-    internal var mContentView = RemoteViews("br.ufpe.cin.android.systemservices", R.layout.custom_notification)
-    internal var mCustomActionView = RemoteViews("br.ufpe.cin.android.systemservices", R.layout.custom_notification_action)
+    internal var mContentView = RemoteViews("br.ufpe.cin.utilities", R.layout.custom_notification)
+    internal var mCustomActionView = RemoteViews("br.ufpe.cin.utilities", R.layout.custom_notification_action)
 
     public override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -222,7 +222,7 @@ class NotificationManagerActivity : Activity() {
                     .setContentIntent(pi)
                     .setSmallIcon(android.R.drawable.stat_sys_download_done)
                     .addAction(android.R.drawable.ic_media_play, "alguma action", pi)
-                    .setVisibility(Notification.VISIBILITY_PUBLIC);
+                    .setVisibility(NotificationCompat.VISIBILITY_PUBLIC);
 
             //esconde da lock screen
             //.setVisibility(Notification.VISIBILITY_SECRET);

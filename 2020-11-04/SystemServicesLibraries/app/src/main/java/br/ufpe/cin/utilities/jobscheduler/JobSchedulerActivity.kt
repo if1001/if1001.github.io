@@ -89,7 +89,7 @@ class JobSchedulerActivity : Activity() {
         val b = JobInfo.Builder(JOB_ID, ComponentName(this, DownloadJobService::class.java))
 
         //criterio de rede
-        b.setRequiredNetworkType(JobInfo.NETWORK_TYPE_ANY)
+        b.setRequiredNetworkType(JobInfo.NETWORK_TYPE_UNMETERED)
         //b.setRequiredNetworkType(JobInfo.NETWORK_TYPE_NONE);
 
         //define intervalo de periodicidade
