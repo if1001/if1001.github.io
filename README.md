@@ -95,6 +95,7 @@ Na disciplina, combinaremos utilizada uma mistura de aulas tradicionais com aula
 | 11 | 04.11.20 (qua) | [Semana 11 - System Services, Best practices & Useful libraries](semana-11.md) |
 | 12 | 11.11.20 (qua) | Semana 12 - Acompanhamento de Projetos |
 | 13 | 18.11.20 (qua) | Semana 13 - Acompanhamento de Projetos |
-| -- | 24.11.20 (ter) | Entrega do Projeto |
+| -- | 24.11.20 (ter) | Último dia de aulas no calendário acadêmico |
+| -- | 30.11.20 (ter) | **Data limite para Entrega do Projeto** |
 
 
