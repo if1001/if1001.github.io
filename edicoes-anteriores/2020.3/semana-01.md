@@ -1,4 +1,4 @@
-# IF1001 - Programação para Dispositivos Móveis - 2020.1
+# IF1001 - Programação para Dispositivos Móveis - 2020.3
 
 ## Semana 1 - Conceitos básicos, Kotlin, interação simples
 
@@ -15,7 +15,7 @@ Ao fim da semana, você deve ser capaz de responder às seguintes perguntas:
 
 ### Material usado em sala
 
-- Hello World Android desenvolvido em sala
+- [Hello World Android](https://github.com/if1001/if1001.github.io/tree/master/2020-08-26/testing)
 
 ### Atividades da Semana
 
@@ -38,15 +38,11 @@ Ao fim da semana, você deve ser capaz de responder às seguintes perguntas:
     - Sugestão: fazer Kotlin Koans
   - [Kotlin Bootcamp for Programmers by Google](https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011)
 - **Vídeos**
-  - [What's new in Android Studio 4.1 (12/10/2020)](https://www.youtube.com/watch?v=Yhbr6u7f3ME)
-  - [What's new in Kotlin on Android, 2 years in (Google I/O'19)](https://www.youtube.com/watch?v=ldM6QZy9e0s)
+  - [What's new in Android Studio 4.0 (28/05/2020)](https://www.youtube.com/watch?v=f1fHPqAYj5I)
+  - [O que tem de novo nas Ferramentas de Desenvolvimento Android (10/06/2020)](https://www.youtube.com/watch?v=NMFGuy6TRqk)
+  - [Novidades no Android (10/06/2020)](https://www.youtube.com/watch?v=fnkFOhA7FC4)
+  - [Desenvolvimento Android #HipstersPontoTube](https://www.youtube.com/watch?v=fWscDFHKgw8&feature=emb_title)
   - [Kotlin // Dicionário do Programador](https://www.youtube.com/watch?v=BfjRYBN7Ur8)
-  - [New Language Features in Kotlin 1.4 by Svetlana Isakova](https://www.youtube.com/watch?v=9ihevvUCoG0)
-  - [How to Kotlin - from the lead Kotlin language designer (Google I/O '18)](https://www.youtube.com/watch?v=6P20npkvcb8)
-  - [Introdução ao Kotlin (Google I/O '17)](https://www.youtube.com/watch?v=X1RVYt2QKQE)
 - **Podcasts**
   - [Kotlin, Android e além – Hipsters #110](https://hipsters.tech/kotlin-android-e-alem-hipsters-110/)
-  - [MovileCast #14 – Vamos falar sobre a linguagem Kotlin?](https://movile.blog/movilecast-14-vamos-falar-sobre-a-linguagem-kotlin/)
-  - [Learning Kotlin (categoria do Fragmented podcast com vários episódios)](https://fragmentedpodcast.com/category/episodes/learning-kotlin/)
-  - [Talking Kotlin (a podcast on Kotlin and more)](https://talkingkotlin.com/)
   

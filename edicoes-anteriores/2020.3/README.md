@@ -1,6 +1,6 @@
 # IF1001 - Programação 3 (Programação para Dispositivos Móveis com Android)
 
-## Edição 2020.1
+## Edição 2020.3 (período letivo suplementar)
 
 ## Sistemas de Informação, [Centro de Informática](http://www.cin.ufpe.br), ([UFPE](http://www.ufpe.br))
 
@@ -8,7 +8,10 @@
 
 * **Professor** 
   * Leopoldo Motta Teixeira ([@leopoldomt](https://github.com/leopoldomt) --- lmt@cin)
-    
+  
+* **Monitor** 
+  * Igor Matos ([@igormatos](https://github.com/igormatos) --- imspc@cin)
+  
 ### Horário e Local de Aulas Síncronas
 
 * Quarta (17h-18h40), Google Meet
@@ -17,6 +20,7 @@
 
 * Segunda (14h-15h), falar comigo no Slack
 * Quarta (16h30-17h), falar comigo no Slack
+* Sexta (11h-12h), falar comigo no Slack
   
 ### Ementa
 
@@ -60,7 +64,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns materiais 
 
 ### Metodologia
 
-Na disciplina, realizaremos uma aula síncrona toda semana para apresentação de conceitos básicos e tirar dúvidas, além de aulas assíncronas e roteiros de estudo disponibilizados por assunto. Adicionalmente, teremos tarefas de programação e um projeto para encerrar a disciplina. 
+Na disciplina, combinaremos utilizada uma mistura de aulas tradicionais com aulas práticas e tarefas de programação para casa. 
 
 ### Recursos
 
@@ -78,19 +82,20 @@ Na disciplina, realizaremos uma aula síncrona toda semana para apresentação d
 
 | # | Data | Assunto |
 |:---:|:----:|:----------------------|:--------:|
-| 01 | 27.01.21 (qua) | [Semana 1 - Conceitos básicos, Kotlin, interação simples](semana-01.md) |
-| 02 | 03.02.21 (qua) | Semana 2 - UI Widgets, Layout Managers & RecyclerView |
-| 03 | 10.02.21 (qua) | Semana 3 - Intents, Activities & Lifecycle |
-| -- | 17.02.21 (qua) | **CARNAVAL** |
-| 04 | 24.02.21 (qua) | Semana 4 - Background processing |
-| 05 | 03.03.21 (qua) | Semana 5 - Data Storage |
-| 06 | 10.03.21 (qua) | Semana 6 - Architecture |
-| 07 | 17.03.21 (qua) | Semana 7 - Permissions & BroadcastReceivers |
-| 08 | 24.03.21 (qua) | Semana 8 - Services |
-| 09 | 31.03.21 (qua) | Semana 9 - Testing |
-| 10 | 07.04.21 (qua) | Semana 10 - TBD |
-| 11 | 14.04.21 (qua) | Semana 11 - TBD |
-| 12 | 19.04.21 (seg) | Semana 12 - TBD |
-| 13 | 28.04.21 (qua) | Semana 13 - Acompanhamento de Projetos |
-| -- | 30.04.21 (sex) | Último dia de aulas no calendário acadêmico |
-| -- | 03.05.21 (seg) | **Data limite para Entrega do Projeto** |
+| 01 | 26.08.20 (qua) | [Semana 1 - Conceitos básicos, Kotlin, interação simples](semana-01.md) |
+| 02 | 02.09.20 (qua) | [Semana 2 - UI, Layout Managers e RecyclerView](semana-02.md) |
+| 03 | 09.09.20 (qua) | [Semana 3 - Intents, Activities & Lifecycle](semana-03.md) |
+| 04 | 16.09.20 (qua) | [Semana 4 - Lifecycle & ViewModel](semana-04.md) |
+| 05 | 23.09.20 (qua) | [Semana 5 - Background processing](semana-05.md) |
+| 06 | 30.09.20 (qua) | [Semana 6 - Data Storage (Preferences & Room)](semana-06.md) |
+| 07 | 07.10.20 (qua) | [Semana 7 - Permissions & BroadcastReceivers](semana-07.md) |
+| 08 | 14.10.20 (qua) | [Semana 8 - Services & `WorkManager`](semana-08.md) |
+| 09 | 21.10.20 (qua) | [Semana 9 - Arquitetura MVx](semana-09.md) |
+| 10 | 28.10.20 (qua) | [Semana 10 - Testing](semana-10.md) |
+| 11 | 04.11.20 (qua) | [Semana 11 - System Services, Best practices & Useful libraries](semana-11.md) |
+| 12 | 11.11.20 (qua) | Semana 12 - Acompanhamento de Projetos |
+| 13 | 18.11.20 (qua) | Semana 13 - Acompanhamento de Projetos |
+| -- | 24.11.20 (ter) | Último dia de aulas no calendário acadêmico |
+| -- | 30.11.20 (ter) | **Data limite para Entrega do Projeto** |
+
+
