@@ -15,7 +15,7 @@ Ao fim da semana, você deve ser capaz de responder às seguintes perguntas:
 
 ### Material usado em sala
 
-- Hello World Android desenvolvido em sala
+- [Hello World Android desenvolvido em sala](https://github.com/if1001/if1001.github.io/tree/master/2021-01-27/OlaMundo)
 
 ### Atividades da Semana
 
