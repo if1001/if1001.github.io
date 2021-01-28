@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OlaMundo</string>
+    <string name="msg">Olá Mundo</string>
+</resources>
