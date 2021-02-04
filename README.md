@@ -79,18 +79,18 @@ Na disciplina, realizaremos uma aula síncrona toda semana para apresentação d
 | # | Data | Assunto |
 |:---:|:----:|:----------------------|:--------:|
 | 01 | 27.01.21 (qua) | [Semana 1 - Conceitos básicos, Kotlin, interação simples](semana-01.md) |
-| 02 | 03.02.21 (qua) | Semana 2 - UI Widgets, Layout Managers & RecyclerView |
-| 03 | 10.02.21 (qua) | Semana 3 - Intents, Activities & Lifecycle |
-| -- | 17.02.21 (qua) | **CARNAVAL** |
-| 04 | 24.02.21 (qua) | Semana 4 - Background processing |
-| 05 | 03.03.21 (qua) | Semana 5 - Data Storage |
-| 06 | 10.03.21 (qua) | Semana 6 - Architecture |
-| 07 | 17.03.21 (qua) | Semana 7 - Permissions & BroadcastReceivers |
-| 08 | 24.03.21 (qua) | Semana 8 - Services |
-| 09 | 31.03.21 (qua) | Semana 9 - Testing |
-| 10 | 07.04.21 (qua) | Semana 10 - TBD |
-| 11 | 14.04.21 (qua) | Semana 11 - TBD |
-| 12 | 19.04.21 (seg) | Semana 12 - TBD |
-| 13 | 28.04.21 (qua) | Semana 13 - Acompanhamento de Projetos |
+| 02 | 03.02.21 (qua) | [Semana 2 - UI Widgets, Layout Managers](semana-02.md) |
+| 03 | 10.02.21 (qua) | Semana 3 - RecyclerView, Intents |
+| 04 | 17.02.21 (qua) | Semana 4 - Activities & Lifecycle |
+| 05 | 24.02.21 (qua) | Semana 5 - Background processing |
+| 06 | 03.03.21 (qua) | Semana 6 - Data Storage |
+| 07 | 10.03.21 (qua) | Semana 7 - Architecture |
+| 08 | 17.03.21 (qua) | Semana 8 - Permissions & BroadcastReceivers |
+| 09 | 24.03.21 (qua) | Semana 9 - Services |
+| 10 | 31.03.21 (qua) | Semana 10 - Testing |
+| 11 | 07.04.21 (qua) | Semana 11 - TBD |
+| 12 | 14.04.21 (qua) | Semana 12 - TBD |
+| 13 | 19.04.21 (seg) | Semana 13 - Acompanhamento de Projetos |
+| 14 | 28.04.21 (qua) | Semana 14 - Acompanhamento de Projetos |
 | -- | 30.04.21 (sex) | Último dia de aulas no calendário acadêmico |
 | -- | 03.05.21 (seg) | **Data limite para Entrega do Projeto** |

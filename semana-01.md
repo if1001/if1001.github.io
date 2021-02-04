@@ -1,6 +1,6 @@
 # IF1001 - Programação para Dispositivos Móveis - 2020.1
 
-## Semana 1 - Conceitos básicos, Kotlin, interação simples
+## Semana 1 - Conceitos básicos, Kotlin
 
 ### Objetivo
 
@@ -19,9 +19,12 @@ Ao fim da semana, você deve ser capaz de responder às seguintes perguntas:
 
 ### Atividades da Semana
 
+- Preparar ideia resumida do projeto (via Classroom)
+
+### Tutoriais recomendados para complementar aprendizagem
+
 - [Android Kotlin Fundamentals Course](https://codelabs.developers.google.com/android-kotlin-fundamentals/)
   - Fazer todos os codelabs **01.x** disponíveis
-- Preparar ideia resumida do projeto (via Classroom)
 
 ### Leitura Obrigatória
 - Ler os tópicos abaixo, disponíveis na seção [Noções básicas do app](https://developer.android.com/guide) no guia do desenvolvedor Android
