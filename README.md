@@ -77,7 +77,7 @@ Na disciplina, realizaremos uma aula síncrona toda semana para apresentação d
 *Este plano de ensino está sujeito a alterações durante o semestre, visite frequentemente a página para obter a versão mais atualizada, ou acompanhe os updates no repositório.*
 
 | # | Data | Assunto |
-|:---:|:----:|:----------------------|:--------:|
+|:---:|:----:|:----------------------
 | 01 | 27.01.21 (qua) | [Semana 1 - Conceitos básicos, Kotlin, interação simples](semana-01.md) |
 | 02 | 03.02.21 (qua) | [Semana 2 - UI Widgets, Layout Managers](semana-02.md) |
 | 03 | 10.02.21 (qua) | Semana 3 - RecyclerView, Intents |
