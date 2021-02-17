@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <TextView
+        android:id="@+id/countClicks"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="50sp"
+        android:padding="10dp"
+        android:layout_margin="10dp"
+        android:textAlignment="center"
+        android:text="0" />
+
+    <Button
+        android:id="@+id/btnClick"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Clique em mim"
+        android:padding="3dp"
+        android:layout_margin="2dp" />
+
+</LinearLayout>
