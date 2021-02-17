@@ -13,5 +13,10 @@ class ConfigChangeActivity : AppCompatActivity() {
         binding = ActivityConfigChangeBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
+        binding.btnClick.setOnClickListener {
+            clicks++
+            binding.countClicks.text = clicks.toString()
+        }
+
     }
 }
