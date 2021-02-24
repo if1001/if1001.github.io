@@ -3,23 +3,27 @@
     android:layout_height="match_parent"
     android:layout_width="match_parent"
     android:orientation="vertical"
+    android:padding="10dp"
     xmlns:android="http://schemas.android.com/apk/res/android">
 
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_margin="5dp"
         android:id="@+id/btnMainThread"
         android:text="UI Thread problems" />
 
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_margin="5dp"
         android:id="@+id/btnThreads"
         android:text="Using native Threads" />
 
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_margin="5dp"
         android:id="@+id/btnCoroutines"
         android:text="Coroutines" />
 
@@ -27,12 +31,14 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_margin="5dp"
         android:id="@+id/btnCost"
         android:text="Cost" />
-    
+
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_margin="5dp"
         android:id="@+id/btnCoroutinesViewModel"
         android:text="Coroutines and ViewModel" />
 
