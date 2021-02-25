@@ -1,6 +1,6 @@
 # IF1001 - Programação para Dispositivos Móveis - 2020.1
 
-## Semana 2 - RecyclerView, Intents
+## Semana 3 - RecyclerView, Intents
 
 ### Objetivo
 
