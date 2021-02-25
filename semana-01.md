@@ -13,7 +13,7 @@ Ao fim da semana, você deve ser capaz de responder às seguintes perguntas:
 - O que é o arquivo `AndroidManifest.xml` e que tipo de informação vai dentro dele? 
 - Quais são os pontos de entrada de um aplicativo Android?
 
-### Material usado em sala
+### Código escrito durante a aula
 
 - [Hello World Android desenvolvido em sala](https://github.com/if1001/if1001.github.io/tree/master/2021-01-27/OlaMundo)
 

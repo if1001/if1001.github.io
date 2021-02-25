@@ -12,7 +12,7 @@ Ao fim da semana, você deve ser capaz de responder às seguintes perguntas:
 - Como criar *listeners* para eventos associados com UI widgets?
 - Qual a motivação por trás da introdução de `ConstraintLayout`?
 
-### Material usado em sala
+### Código escrito durante a aula
 
 - [UI Widgets App](https://github.com/if1001/if1001.github.io/tree/master/2021-02-03/UIWidgets)
 

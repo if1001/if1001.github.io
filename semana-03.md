@@ -12,7 +12,7 @@ Ao fim da semana, você deve ser capaz de responder às seguintes perguntas:
 - O que significa o termo _recycler_ em `RecyclerView`?
 - Qual a diferença essencial entre *intents* explícitos e implícitos?
 
-### Material usado em sala
+### Código escrito durante a aula
 
 - [RecyclerView App](https://github.com/if1001/if1001.github.io/tree/master/2021-02-10/RecyclerView)
 
