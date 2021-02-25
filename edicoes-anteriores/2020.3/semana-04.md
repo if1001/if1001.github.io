@@ -34,7 +34,6 @@ Ao fim da semana, você deve ser capaz de responder às seguintes perguntas:
 - **Vídeos**
   - [Android Jetpack: ViewModel](https://www.youtube.com/watch?v=5qlIPTDE274)
   - [ViewModel Explained - Android Architecture Component | Tutorial](https://www.youtube.com/watch?v=orH4K6qBzvE)
-  - [Android Jetpack: Apresentando o componente de navegação](https://www.youtube.com/watch?v=Y0Cs2MQxyIs)
 
 - **Podcasts**
   - [Fragmented 115: Architecture Components with Akshay Chordiya](https://fragmentedpodcast.com/episodes/115/)
