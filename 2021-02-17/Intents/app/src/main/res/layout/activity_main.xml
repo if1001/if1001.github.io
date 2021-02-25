@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/btnExplicitIntent"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Intent Explícito" />
+
+        <Button
+            android:id="@+id/btnImplicitMapa"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Intent Implícito - Mapa" />
+
+        <Button
+            android:id="@+id/btnImplicitWeb"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Intent Implícito - Web" />
+
+        <Button
+            android:id="@+id/btnImplicitPhone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Intent Implícito - Telefone" />
+
+        <Button
+            android:id="@+id/btnExplicitBaixo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Botão de Intent Explícito também" />
+
+        <EditText
+            android:id="@+id/assunto"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Digite um assunto"
+            android:padding="3dp"
+            android:layout_margin="2dp" />
+        <EditText
+            android:id="@+id/msg"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Digite a mensagem"
+            android:padding="3dp"
+            android:layout_margin="2dp" />
+        <Button
+            android:id="@+id/btnExplicitSMS"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Explicit TxtActivity"
+            android:padding="3dp"
+            android:layout_margin="2dp" />
+        <Button
+            android:id="@+id/btnImplicitSMS"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Implicit SMS"
+            android:padding="3dp"
+            android:layout_margin="2dp" />
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
