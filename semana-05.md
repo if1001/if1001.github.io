@@ -37,8 +37,9 @@ Ao fim da semana, você deve ser capaz de responder às seguintes perguntas:
 
 - **Coroutines** 
   - [Use coroutines in common Android use cases](https://developer.android.com/courses/pathways/android-coroutines)
-  - [Mastering Kotlin Coroutines In Android - Step By Step Guide](https://blog.mindorks.com/mastering-kotlin-coroutines-in-android-step-by-step-guide)
   - [Coroutines Guide - Kotlin docs](https://kotlinlang.org/docs/reference/coroutines/coroutines-guide.html)
+  - [Mastering Kotlin Coroutines In Android - Step By Step Guide](https://blog.mindorks.com/mastering-kotlin-coroutines-in-android-step-by-step-guide)
+  - [Kotlin Coroutines in Android Reference Guide](https://www.techyourchance.com/kotlin-coroutines-android-reference-guide/)
   - [Kotlin Coroutines And Threading Fundamentals](https://proandroiddev.com/kotlin-coroutines-and-threading-fundamentals-9fd0130437ae)
   - [Kotlin Coroutines in Complex Features](https://www.techyourchance.com/kotlin-coroutines-in-complex-scenarios/)
   - [A Bottom-Up View of Kotlin Coroutines](https://www.infoq.com/articles/kotlin-coroutines-bottom-up/)
