@@ -80,9 +80,9 @@ Na disciplina, realizaremos uma aula síncrona toda semana para apresentação d
 |:---:|:----:|:----------------------
 | 01 | 27.01.21 (qua) | [Semana 1 - Conceitos básicos, Kotlin, interação simples](semana-01.md) |
 | 02 | 03.02.21 (qua) | [Semana 2 - UI Widgets, Layout Managers](semana-02.md) |
-| 03 | 10.02.21 (qua) | Semana 3 - RecyclerView, Intents |
-| 04 | 17.02.21 (qua) | Semana 4 - Activities & Lifecycle |
-| 05 | 24.02.21 (qua) | Semana 5 - Background processing |
+| 03 | 10.02.21 (qua) | [Semana 3 - RecyclerView, Intents](semana-03.md) |
+| 04 | 17.02.21 (qua) | [Semana 4 - Activities & Lifecycle](semana-04.md) |
+| 05 | 24.02.21 (qua) | [Semana 5 - Background processing](semana-05.md) |
 | 06 | 03.03.21 (qua) | Semana 6 - Data Storage |
 | 07 | 10.03.21 (qua) | Semana 7 - Architecture |
 | 08 | 17.03.21 (qua) | Semana 8 - Permissions & BroadcastReceivers |
