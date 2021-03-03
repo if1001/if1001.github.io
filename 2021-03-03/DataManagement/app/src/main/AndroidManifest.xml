@@ -9,7 +9,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.DataManagement">
-        <activity android:name=".RoomActivity"></activity>
+        <activity android:name=".AdicionarPessoaActivity"></activity>
+        <activity android:name=".PreferenceMenuActivity" />
+        <activity android:name=".PreferenceManualActivity" />
+        <activity android:name=".RoomActivity" />
         <activity android:name=".SharedPreferencesActivity" />
         <activity android:name=".PreferenceDataStoreActivity" />
         <activity android:name=".PreferenceScreenActivity" />

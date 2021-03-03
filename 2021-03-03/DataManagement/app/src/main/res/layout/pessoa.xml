@@ -23,7 +23,7 @@
             android:src="@drawable/ok" />
 
         <LinearLayout
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="vertical">
 
@@ -42,11 +42,5 @@
                 android:text="login pessoa"
                 android:textSize="15sp" />
         </LinearLayout>
-        <Button
-            android:id="@+id/btnDelete"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Deletar"
-            android:layout_gravity="end"/>
     </LinearLayout>
 </androidx.cardview.widget.CardView>
