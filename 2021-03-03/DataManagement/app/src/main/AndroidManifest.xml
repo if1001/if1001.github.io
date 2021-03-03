@@ -9,7 +9,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.DataManagement">
-        <activity android:name=".PreferenceDataStoreActivity"></activity>
+        <activity android:name=".RoomActivity"></activity>
+        <activity android:name=".SharedPreferencesActivity" />
+        <activity android:name=".PreferenceDataStoreActivity" />
         <activity android:name=".PreferenceScreenActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>
