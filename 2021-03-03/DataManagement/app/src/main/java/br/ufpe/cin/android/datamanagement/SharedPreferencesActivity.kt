@@ -8,7 +8,10 @@ import br.ufpe.cin.android.datamanagement.databinding.ActivityGameBinding
 
 class SharedPreferencesActivity : AppCompatActivity() {
     private lateinit var binding: ActivityGameBinding
-    private val viewModel: GameViewModel by viewModels()
+    private val viewModel: GameViewModel by viewModels {
+        val repository = GameRepository.getInstance(this)
+        GameViewModelFactory(repository)
+    }
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         binding = ActivityGameBinding.inflate(layoutInflater)

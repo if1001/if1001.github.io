@@ -5,11 +5,10 @@ import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import kotlin.random.Random
 
-class GameViewModel : ViewModel() {
+class GameViewModel(val repository: GameRepository) : ViewModel() {
     private val range = 1000
 
-    private val _maiorPontuacao = MutableLiveData<Int>(0)
-    val maiorPontuacao : LiveData<Int> = _maiorPontuacao
+    val maiorPontuacao : LiveData<Int> = repository.maiorPontuacao
 
     private val _pontuacaoAtual = MutableLiveData<Int>(0)
     val pontuacaoAtual : LiveData<Int> = _pontuacaoAtual
@@ -22,13 +21,13 @@ class GameViewModel : ViewModel() {
         val highScoreAtual = maiorPontuacao.value
         if (highScoreAtual!=null) {
             if (numeroAleatorio > highScoreAtual) {
-                _maiorPontuacao.postValue(numeroAleatorio)
+                repository.persistirPontuacao(numeroAleatorio)
             }
         }
     }
 
     fun resetarPontuacao() {
-        _maiorPontuacao.postValue(0)
         _pontuacaoAtual.value = 0
+        repository.persistirPontuacao(0)
     }
 }

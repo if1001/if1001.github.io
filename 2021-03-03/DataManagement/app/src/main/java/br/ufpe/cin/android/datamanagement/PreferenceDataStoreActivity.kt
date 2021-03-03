@@ -10,5 +10,6 @@ class PreferenceDataStoreActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         binding = ActivityGameBinding.inflate(layoutInflater)
         setContentView(binding.root)
+        //TODO won't have time to cover during class
     }
 }

@@ -1,5 +1,6 @@
 package br.ufpe.cin.android.datamanagement
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
@@ -27,16 +28,16 @@ class RoomActivity : AppCompatActivity() {
         }
 
         binding.btnAdiciona.setOnClickListener {
-            val i = Random.nextInt(Constants.maisProfessores.size)
-            val p = Constants.maisProfessores[i]
-            Log.i("ROOM_APP", "setOnClickListener: $p")
-            viewModel.inserir(p)
+            //val i = Random.nextInt(Constants.maisProfessores.size)
+            //val p = Constants.maisProfessores[i]
+            //viewModel.inserir(p)
+            startActivity(Intent(this, AdicionarPessoaActivity::class.java))
         }
 
         viewModel.professores.observe(
             this,
-            Observer {
-                professorAdapter.submitList(it.toList())
+            Observer { listaProfessores ->
+                professorAdapter.submitList(listaProfessores.toList())
             }
         )
     }

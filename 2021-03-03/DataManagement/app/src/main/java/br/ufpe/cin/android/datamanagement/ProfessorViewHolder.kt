@@ -14,21 +14,12 @@ class ProfessorViewHolder(private val binding: PessoaBinding) :
 
     init {
         binding.root.setOnClickListener {
-//            val c = binding.nome.context
-//
-//            //Intent Explicito
-//            val intentExplicito = Intent(c, ProfessorActivity::class.java)
-//            intentExplicito.putExtra("nome", nome)
-//            intentExplicito.putExtra("login", login)
-//            //c.startActivity(intentExplicito)
-//
-//            val intentImplicito = Intent()
-//            intentImplicito.action = Intent.ACTION_VIEW
-//            intentImplicito.data = Uri.parse(site)//https://
-//
-//            //intentImplicito.data = Uri.parse("geo:0,0?q=Marco Zero")
-//
-//            c.startActivity(intentImplicito)
+            val c = binding.nome.context
+
+            //Intent Explicito
+            val intentExplicito = Intent(c, EditarProfessorActivity::class.java)
+            intentExplicito.putExtra("login", login)
+            c.startActivity(intentExplicito)
         }
     }
     fun bindTo(professor : Professor) {
