@@ -26,8 +26,14 @@ class SharedPreferencesActivity : AppCompatActivity() {
             this,
             Observer { pontuacao ->
                 val scoreAtual = pontuacao.toString()
-                binding.gameScoreText.text = scoreAtual
                 binding.highScoreText.text = scoreAtual
+            }
+        )
+
+        viewModel.pontuacaoAtual.observe(
+            this,
+            Observer {
+                binding.gameScoreText.text = it.toString()
             }
         )
     }
