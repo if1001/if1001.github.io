@@ -6,7 +6,7 @@ import android.os.Bundle
 import br.ufpe.cin.android.broadcastreceivers.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
-    private lateinit var binding : ActivityMainBinding
+    private lateinit var binding: ActivityMainBinding
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         binding = ActivityMainBinding.inflate(layoutInflater)
@@ -14,19 +14,17 @@ class MainActivity : AppCompatActivity() {
 
         binding.enviarBroadcast.setOnClickListener {
         }
-        binding.enviarBroadcastDyn.setOnClickListener {
-        }
         binding.abrirActivity.setOnClickListener {
-            startActivity(Intent(this,DynamicReceiverActivity::class.java))
+            startActivity(Intent(this, DynamicReceiverActivity::class.java))
         }
         binding.abrirOutraActivity.setOnClickListener {
-            startActivity(Intent(this,OutraDynamicReceiverActivity::class.java))
+            startActivity(Intent(this, OutraDynamicReceiverActivity::class.java))
         }
         binding.bateriaActivity.setOnClickListener {
-            startActivity(Intent(this,BateriaActivity::class.java))
+            startActivity(Intent(this, BateriaActivity::class.java))
         }
         binding.smsActivity.setOnClickListener {
-            startActivity(Intent(this,SMSActivity::class.java))
+            startActivity(Intent(this, SMSActivity::class.java))
         }
     }
 }
