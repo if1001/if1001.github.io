@@ -83,7 +83,7 @@ Na disciplina, realizaremos uma aula síncrona toda semana para apresentação d
 | 03 | 10.02.21 (qua) | [Semana 3 - RecyclerView, Intents](semana-03.md) |
 | 04 | 17.02.21 (qua) | [Semana 4 - Activities & Lifecycle](semana-04.md) |
 | 05 | 24.02.21 (qua) | [Semana 5 - Background processing](semana-05.md) |
-| 06 | 03.03.21 (qua) | [Semana 6 - Data Storage](semana-06.md) |
+| 06 | 03.03.21 (qua) | [Semana 6 - Data Management](semana-06.md) |
 | 07 | 10.03.21 (qua) | [Semana 7 - Permissions & BroadcastReceivers](semana-07.md) |
 | 08 | 17.03.21 (qua) | Semana 8 - Services |
 | 09 | 24.03.21 (qua) | Semana 9 - MVx Architecture |

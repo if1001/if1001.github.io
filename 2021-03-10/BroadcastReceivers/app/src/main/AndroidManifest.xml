@@ -2,6 +2,16 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="br.ufpe.cin.android.broadcastreceivers">
 
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <!-- Algumas permissões são consideradas 'dangerous' ou runtime permissions -->
+    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -9,6 +19,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.BroadcastReceivers">
+        <activity android:name=".NovaActivity"></activity>
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -16,10 +27,29 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".SMSActivity"></activity>
+        <activity android:name=".SMSActivity" />
         <activity android:name=".BateriaActivity" />
         <activity android:name=".OutraDynamicReceiverActivity" />
         <activity android:name=".DynamicReceiverActivity" />
+
+        <receiver
+            android:name=".CustomReceiver"
+            android:enabled="true"
+            android:exported="true">
+            <intent-filter>
+
+                <!--
+                isso aqui não funciona mais,
+                ver https://developer.android.com/guide/components/broadcast-exceptions
+                para a lista de broadcasts que podem ser registrados por aqui
+                -->
+                <action android:name="br.ufpe.cin.android.broadcast.ACTION_X" />
+                <!-- esse abaixo é um exemplo do que pode -->
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
     </application>
+
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
 
 </manifest>

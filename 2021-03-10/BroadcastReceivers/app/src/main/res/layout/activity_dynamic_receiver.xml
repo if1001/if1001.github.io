@@ -10,7 +10,16 @@
         android:id="@+id/enviarBroadcastDyn"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Enviar Broadcast Dynamic"
+        android:text="Enviar um Broadcast"
+        android:textSize="24sp">
+    </Button>
+
+    <Button
+        android:layout_margin="5dp"
+        android:id="@+id/enviarOutroBroadcast"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Enviar outro Broadcast"
         android:textSize="24sp">
     </Button>
 
