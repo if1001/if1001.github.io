@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <Button
+        android:id="@+id/enviarBroadcast"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:text="Enviar Broadcast Estático"
+        android:textSize="24sp"></Button>
+
+    <Button
+        android:id="@+id/enviarBroadcastDyn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:text="Enviar Broadcast Dinâmico"
+        android:textSize="24sp"></Button>
+
+    <Button
+        android:id="@+id/abrirActivity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:text="Dynamic Broadcast Activity"
+        android:textSize="24sp"></Button>
+
+    <Button
+        android:id="@+id/abrirOutraActivity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:text="Outra Dynamic Broadcast Activity"
+        android:textSize="24sp"></Button>
+
+    <Button
+        android:id="@+id/smsActivity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:text="SMS Activity"
+        android:textSize="24sp"></Button>
+
+    <Button
+        android:id="@+id/bateriaActivity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:text="Bateria Activity"
+        android:textSize="24sp"></Button>
+
+</LinearLayout>
