@@ -31,11 +31,14 @@ class ServiceMainThreadActivity : AppCompatActivity() {
                 e.printStackTrace()
             }
         }
+        //intent explícito que está associado com o componente MainThreadService
+        val i = Intent(this,MainThreadService::class.java)
+        i.putExtra("chave","valor")
         binding.btnStartServiceMainThread.setOnClickListener {
-
+            startService(i)
         }
         binding.btnStopServiceMainThread.setOnClickListener {
-
+            stopService(i)
         }
     }
 }

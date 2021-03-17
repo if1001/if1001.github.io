@@ -23,10 +23,19 @@
         android:textSize="24sp"></Button>
 
     <Button
-        android:id="@+id/botaoStartService"
+        android:id="@+id/botaoRewind"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@id/botaoPause"
+        android:layout_margin="5dp"
+        android:text="Rewind"
+        android:textSize="24sp"></Button>
+
+    <Button
+        android:id="@+id/botaoStartService"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/botaoRewind"
         android:layout_margin="5dp"
         android:text="Start Service"
         android:textSize="24sp"></Button>

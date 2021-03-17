@@ -13,9 +13,12 @@ class MusicPlayerNoBindingActivity : AppCompatActivity() {
         binding = ActivityMusicPlayerNoBindingBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
+        val i = Intent(this,MusicPlayerService::class.java)
         binding.btnStartService.setOnClickListener {
+            startService(i)
         }
         binding.btnStopService.setOnClickListener {
+            stopService(i)
         }
     }
 

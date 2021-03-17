@@ -15,7 +15,25 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Services">
-        <activity android:name=".WorkManagerViewActivity"></activity>
+        <service
+            android:name=".DownloadService"
+            android:enabled="true"
+            android:exported="false"
+            android:permission="android.permission.BIND_JOB_SERVICE"></service>
+        <service
+            android:name=".MusicPlayerService"
+            android:enabled="true"
+            android:exported="false" />
+        <service
+            android:name=".MainThreadService"
+            android:enabled="true"
+            android:exported="false" />
+        <service
+            android:name=".MusicPlayerBoundService"
+            android:enabled="true"
+            android:exported="false" />
+
+        <activity android:name=".WorkManagerViewActivity" />
         <activity android:name=".WorkManagerActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>
@@ -24,27 +42,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
-        <service
-            android:name=".DownloadService"
-            android:exported="false"
-            android:permission="android.permission.BIND_JOB_SERVICE" />
-        <service
-            android:name=".MusicPlayerBindingService"
-            android:enabled="true"
-            android:exported="true" />
-
         <activity android:name=".AnotherBindingActivity" />
-
-        <service
-            android:name=".MusicPlayerService"
-            android:enabled="true"
-            android:exported="true" />
-        <service
-            android:name=".MainThreadService"
-            android:enabled="true"
-            android:exported="true" />
-
         <activity android:name=".ServiceMainThreadActivity" />
         <activity android:name=".MusicPlayerWithBindingActivity" />
         <activity android:name=".MusicPlayerNoBindingActivity" />
