@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <Button
+        android:id="@+id/botaoDownload"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:text="Iniciar Download" />
+
+    <Button
+        android:id="@+id/botaoVisualizar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:text="Visualizar" />
+
+    <EditText
+        android:id="@+id/linkDownload"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:hint="Digite algum link aqui"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/msg_download"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:text="Baixando o arquivo..."
+        android:textSize="30sp"
+        android:visibility="invisible" />
+
+
+</LinearLayout>

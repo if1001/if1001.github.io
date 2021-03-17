@@ -85,7 +85,7 @@ Na disciplina, realizaremos uma aula síncrona toda semana para apresentação d
 | 05 | 24.02.21 (qua) | [Semana 5 - Background processing](semana-05.md) |
 | 06 | 03.03.21 (qua) | [Semana 6 - Data Management](semana-06.md) |
 | 07 | 10.03.21 (qua) | [Semana 7 - Permissions & BroadcastReceivers](semana-07.md) |
-| 08 | 17.03.21 (qua) | Semana 8 - Services |
+| 08 | 17.03.21 (qua) | [Semana 8 - Services & WorkManager](semana-08.md) |
 | 09 | 24.03.21 (qua) | Semana 9 - MVx Architecture |
 | 10 | 31.03.21 (qua) | Semana 10 - Testing |
 | 11 | 07.04.21 (qua) | Semana 11 - TBD |

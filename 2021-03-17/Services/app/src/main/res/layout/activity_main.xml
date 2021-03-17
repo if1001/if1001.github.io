@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <Button
+        android:id="@+id/botao_serviceMainThread"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:text="Service Main Thread"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/botao_musicPlayer"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:text="Music Player"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/botao_musicServiceWithoutBinding"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:text="startService() sem binding"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/botao_musicServiceWithBinding"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:text="Service com bindService()"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/botao_anotherBinding"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:text="Outra Binding Activity"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/botao_downloadService"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:text="Exemplo de IntentService"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/botao_workManager"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:text="WorkManager"
+        android:textSize="20sp" />
+
+</LinearLayout>

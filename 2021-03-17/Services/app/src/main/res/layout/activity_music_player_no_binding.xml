@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:padding="10dp">
+
+    <Button
+        android:id="@+id/btn_StopService"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_margin="5dp"
+        android:text="Parar Service"
+        android:textSize="24sp"></Button>
+
+    <Button
+        android:id="@+id/btn_StartService"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/btn_StopService"
+        android:layout_margin="5dp"
+        android:text="Iniciar Service"
+        android:textSize="24sp"></Button>
+
+</RelativeLayout>
