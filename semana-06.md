@@ -15,7 +15,7 @@ Ao fim da semana, você deve ser capaz de responder às seguintes perguntas:
 
 - [Data Management app](https://github.com/if1001/if1001.github.io/tree/master/2021-03-03/DataManagement)
 
-### Atividades da Semana
+### Tutoriais recomendados para complementar aprendizagem
 
 - [Android Room with a View - Kotlin](https://codelabs.developers.google.com/codelabs/android-room-with-a-view-kotlin/#0)
 - [Database Views With Room for Android](https://www.raywenderlich.com/10194335-database-views-with-room-for-android)

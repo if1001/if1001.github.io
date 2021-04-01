@@ -21,8 +21,6 @@ Ao fim da semana, você deve ser capaz de responder às seguintes perguntas:
 - [Request App Permissions](https://developer.android.com/training/permissions/requesting)
 - [App permissions best practices](https://developer.android.com/training/permissions/usage-notes)
 
-### Material complementar
-
 - **Vídeos**
   - [BROADCAST RECEIVERS - Android Fundamentals](https://www.youtube.com/watch?v=lldf3nei2rQ)
   - [Android Oreo Background Execution Limits](https://www.youtube.com/watch?v=Pumf_4yjTMc&t=22s)

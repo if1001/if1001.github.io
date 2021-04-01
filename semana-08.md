@@ -15,7 +15,7 @@ Ao fim da semana, você deve ser capaz de responder às seguintes perguntas:
 
 - [Services app](https://github.com/if1001/if1001.github.io/tree/master/2021-03-17/Services)
 
-### Atividades da Semana
+### Tutoriais recomendados para complementar aprendizagem
 
 - [Background Work with WorkManager - Kotlin](https://codelabs.developers.google.com/codelabs/android-workmanager/#0)
 - [WorkManager Tutorial for Android: Getting Started](https://www.raywenderlich.com/6040-workmanager-tutorial-for-android-getting-started)

@@ -87,9 +87,9 @@ Na disciplina, realizaremos uma aula síncrona toda semana para apresentação d
 | 07 | 10.03.21 (qua) | [Semana 7 - Permissions & BroadcastReceivers](semana-07.md) |
 | 08 | 17.03.21 (qua) | [Semana 8 - Services & WorkManager](semana-08.md) |
 | 09 | 24.03.21 (qua) | [Semana 9 - MVx Architecture](semana-09.md) |
-| 10 | 31.03.21 (qua) | Semana 10 - Testing |
-| 11 | 07.04.21 (qua) | Semana 11 - TBD |
-| 12 | 14.04.21 (qua) | Semana 12 - TBD |
+| 10 | 31.03.21 (qua) | [Semana 10 - Testing](semana-10.md) |
+| 11 | 07.04.21 (qua) | Semana 11 - Acompanhamento de Projetos |
+| 12 | 14.04.21 (qua) | Semana 12 - Acompanhamento de Projetos |
 | 13 | 19.04.21 (seg) | Semana 13 - Acompanhamento de Projetos |
 | 14 | 28.04.21 (qua) | Semana 14 - Acompanhamento de Projetos |
 | -- | 30.04.21 (sex) | Último dia de aulas no calendário acadêmico |

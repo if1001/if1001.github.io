@@ -17,7 +17,7 @@ Ao fim da semana, você deve ser capaz de responder às seguintes perguntas:
 - [DisneyMotions](https://github.com/skydoves/DisneyMotions)
 - [MarvelHeroes](https://github.com/skydoves/MarvelHeroes)
 
-### Atividades da Semana
+### Tutoriais recomendados para complementar aprendizagem
 
 - [Clean Architecture Tutorial for Android: Getting Started](https://www.raywenderlich.com/3595916-clean-architecture-tutorial-for-android-getting-started)
 - [MVVM Architecture - Android Tutorial for Beginners - Step by Step Guide](https://blog.mindorks.com/mvvm-architecture-android-tutorial-for-beginners-step-by-step-guide)
